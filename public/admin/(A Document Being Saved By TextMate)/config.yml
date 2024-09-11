@@ -107,6 +107,7 @@ collections: # A list of collections the CMS should be able to edit
           format: 'YYYY-MM-DD HH:mm',
           default: '{{now}}',
         }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
       - label: 'Imagine'
         name: 'image'
         widget: 'image'
@@ -118,7 +119,6 @@ collections: # A list of collections the CMS should be able to edit
         collection: "authors"
         search_fields: ["name"]
         value_field: "name"
-      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
   - name: 'settings'
     label: 'Settings'
     delete: true # Prevent users from deleting documents in this collection
