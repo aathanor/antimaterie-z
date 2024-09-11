@@ -79,6 +79,19 @@
             "content_html": "\u003cp\u003eFlorin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.\u003c/p\u003e\n"
         },
         {
+            "title": "Flux mic",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "//192.168.100.77:1313/flux/2024-09-11-flux-mic/",
+            "url": "//192.168.100.77:1313/flux/2024-09-11-flux-mic/",
+            "authors": [
+                {
+                  "name": "Florin Cojocariu"
+                }
+            ],
+            "content_html": "\u003cp\u003ede test\u003c/p\u003e\n"
+        },
+        {
             "title": "Search",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",

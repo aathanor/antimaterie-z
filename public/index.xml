@@ -120,6 +120,14 @@
 </description>
     </item>
     <item>
+      <title>Flux mic</title>
+      <link>//192.168.100.77:1313/flux/2024-09-11-flux-mic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/flux/2024-09-11-flux-mic/</guid>
+      <description><p>de test</p>
+</description>
+    </item>
+    <item>
       <title>Search</title>
       <link>//192.168.100.77:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
