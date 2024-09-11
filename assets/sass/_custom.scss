@@ -1,0 +1,16 @@
+.header__region {
+    margin-inline-start: unset;
+    margin-top: -105px;
+    margin-left: 400px;
+}
+.header {
+    flex-direction: column;
+}
+.layout__second-sidebar {
+    grid-area: side2;
+    margin-top: 60px;
+}
+
+p.menu {
+    text-align: right;
+}

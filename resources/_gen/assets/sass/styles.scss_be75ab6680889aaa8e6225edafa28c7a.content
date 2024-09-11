@@ -50,11 +50,11 @@
   --color-headings: #333333;
   --color-code: #333333;
   --color-highlight: #999999;
-  --fs-xxxxl: 3rem;
-  --fs-xxxl: 2.5rem;
-  --fs-xxl: 2rem;
-  --fs-xl: 1.5rem;
-  --fs-l: 1.25rem;
+  --fs-xxxxl: clamp(2.4881rem, 1.8896rem + 2.9924vw, 4.2088rem);
+  --fs-xxxl: clamp(2.0738rem, 1.6968rem + 1.8848vw, 3.1575rem);
+  --fs-xxl: clamp(1.7281rem, 1.5053rem + 1.1141vw, 2.3688rem);
+  --fs-xl: clamp(1.44rem, 1.3228rem + 0.5859vw, 1.7769rem);
+  --fs-l: clamp(1.2rem, 1.1537rem + 0.2315vw, 1.3331rem);
   --fs-m: 1rem;
   --fs-s: 0.889rem;
   --fs-xs: 0.778rem;
@@ -79,7 +79,7 @@
   --gutters: calc(5px + 1.5625vw);
   --heading-line-height: 1.3;
   --indent-amount: 2rem;
-  --max-content-width: 1111px;
+  --max-content-width: 777px;
   --max-line-width: 70ch;
   --max-page-width: 1111px;
 }
@@ -526,6 +526,31 @@ th {
 .layout__header, .layout__footer, .layout__main, .layout__navigation, .layout__first-sidebar, .layout__second-sidebar, .layout__page-top, .layout__page-bottom, .layout__cookieconsent {
   padding-inline: var(--gutters);
   min-width: 0;
+}
+
+.layout__navigation > * {
+  max-width: var(--max-content-width);
+}
+@media (min-width: 666px) {
+  .layout__navigation > * {
+    margin-inline: auto;
+  }
+}
+.layout__main, .layout__grid {
+  display: grid;
+  grid-template-columns: [stretch-start] minmax(var(--gutters), 1fr) [breakout-start] minmax(0, var(--breakout)) [content-start] min(100% - var(--gutters) * 2, var(--max-content-width)) [content-end] minmax(0, var(--breakout)) [breakout-end] minmax(var(--gutters), 1fr) [stretch-end];
+  padding-inline: 0;
+  height: fit-content;
+}
+.layout__main > :not(.breakout, .stretch), .layout__grid > :not(.breakout, .stretch) {
+  grid-column: content;
+}
+.layout__main > .breakout, .layout__grid > .breakout {
+  grid-column: breakout;
+}
+.layout__main > .stretch, .layout__grid > .stretch {
+  grid-column: stretch;
+  padding-inline: var(--gutters);
 }
 
 .layout__page {
@@ -1403,6 +1428,25 @@ main textarea:focus:invalid {
 .js-submitted input:invalid,
 .js-submitted textarea:invalid {
   background-color: var(--color-error-bg);
+}
+
+.header__region {
+  margin-inline-start: unset;
+  margin-top: -105px;
+  margin-left: 400px;
+}
+
+.header {
+  flex-direction: column;
+}
+
+.layout__second-sidebar {
+  grid-area: side2;
+  margin-top: 60px;
+}
+
+p.menu {
+  text-align: right;
 }
 
 /*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,155 @@
+backend:
+  name: github
+  repo: aathanor/antimaterie
+  branch: main # Branch to update (optional; defaults to master)
+  base_url: https://antimaterie.ro
+  auth_endpoint: /api/auth
+  auth_scope: repo # this is needed to fork the private repo
+  open_authoring: true
+  use_graphql: true
+
+site_url: https://antimaterie.ro
+
+publish_mode: editorial_workflow
+media_folder: static/images/uploads
+public_folder: /images/uploads
+
+collections: # A list of collections the CMS should be able to edit
+  - name: 'authors'
+    label: 'Authors'
+    label_singular: 'Author'
+    description: >
+      Secțiune pentru administrare. Nu se poate modifica!"
+    folder: 'content/authors'
+    create: false
+    fields:
+      - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
+      - { label: 'Description', name: 'description', widget: 'markdown' }
+  - name: 'flux' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Flux' # Used in the UI
+    label_singular: 'Post' # Used in the UI, ie: "New Post"
+    description: >
+      Postări scurte care apar în flux cronologic (cam ca pe Facebook). Recomandarea e ca tot ce trece de 200 de cuvinte să fie articol în secțiunea "Distilat"
+    folder: 'content/flux'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    create: true # Allow users to create new documents in this collection
+    view_filters:
+      - label: Posts With Index
+        field: title
+        pattern: 'This is post #'
+      - label: Posts Without Index
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # The fields each document in this collection have
+      - { label: 'Titlu', name: 'title', widget: 'string', tagname: 'h1' }
+#      - { label: 'Draft?', name: 'draft', widget: 'boolean', default: false }
+      - {
+          label: 'Data publicării',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DD HH:mm',
+          default: '{{now}}',
+        }
+      - label: 'Imagine'
+        name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
+      - label: "Autor"
+        name: "author"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["name"]
+        value_field: "name"
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Aici intră textul' }
+  - name: 'distilat' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Distilat' # Used in the UI
+    label_singular: 'Distilat' # Used in the UI, ie: "New Post"
+    description: >
+      Articole de fond mai lungi (recomandarea e între 300 și 1000 de cuvinte). Tot ce e sub 200 de cuvinte ar trebui să fie postare în secțiunea "Flux"
+    folder: 'content/distilat'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    create: true # Allow users to create new documents in this collection
+    view_filters:
+      - label: Posts With Index
+        field: title
+        pattern: 'This is post #'
+      - label: Posts Without Index
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # The fields each document in this collection have
+      - { label: 'Titlu', name: 'title', widget: 'string', tagname: 'h1' }
+#      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - {
+          label: 'Data publicării',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DD HH:mm',
+          default: '{{now}}',
+        }
+      - label: 'Imagine'
+        name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
+      - label: "Autor"
+        name: "author"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["name"]
+        value_field: "name"
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+  - name: 'settings'
+    label: 'Settings'
+    delete: true # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: 'Site Settings'
+        file: '_data/settings.json'
+        description: 'General Site Settings'
+        fields:
+          - { label: 'Global title', name: 'site_title', widget: 'string' }
+          - label: 'Post Settings'
+            name: posts
+            widget: 'object'
+            fields:
+              - {
+                  label: 'Number of posts on frontpage',
+                  name: front_limit,
+                  widget: number,
+                  min: 1,
+                  max: 10,
+                }
+              - { label: 'Default Author', name: author, widget: string }
+              - {
+                  label: 'Default Thumbnail',
+                  name: thumb,
+                  widget: image,
+                  class: 'thumb',
+                  required: false,
+                }
+
+
+

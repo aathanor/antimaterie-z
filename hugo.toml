@@ -1,5 +1,5 @@
-baseURL = 'https://antimaterie.ro/'
-title = 'Antimaterie'
+baseURL = "https://antimaterie.ro/"
+title = "Antimaterie"
 theme = "zen"
 languageCode = "ro-RO"
 
@@ -26,14 +26,14 @@ favicon = ""
 feedlinks = true
 footer = "We are not Borg"
 icon = ""
-image = ""
+image = "/logo.png"
 imageMaxWidth = "400"
-logoWidth = 64
-logoHeight = 64
+logoWidth = 100
+logoHeight = 100
 internalPagination = false
 jquery = false
 languageDir = "ltr"
-logo = false
+logo = true
 mainSections = [ "flux", "distilat" ]
 math = false
 menuInHeader = true
@@ -52,11 +52,6 @@ sidebar = true
 siteName = false
 submitted = true
 umbrella = true
-
-[[menu.main]]
-Name = "Acasă"
-weight = -10
-pageRef = "/"
 
 [[menu.main]]
 Name = "Flux"
