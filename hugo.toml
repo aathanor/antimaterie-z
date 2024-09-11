@@ -17,7 +17,7 @@ section = [ "HTML", "RSS", "JSON" ]
 alpine = false
 blogSections = [ "blog", "post" ]
 breadcrumbSections = [ "section2", "section3" ]
-cookieConsent = true
+cookieConsent = false
 contact = "florin@athanor.ro"
 copyright = '<!--Creative Commons License-->Conținut licențiat sub <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
 dateformat = "January 2, 2006"
