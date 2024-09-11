@@ -3,21 +3,33 @@ title = 'Antimaterie'
 theme = "zen"
 languageCode = "ro-RO"
 
+[outputFormats.SearchIndex]
+mediaType = "application/json"
+baseName = "searchindex"
+isPlainText = true
+notAlternative = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON", "SearchIndex" ]
+section = [ "HTML", "RSS", "JSON" ]
+
 [params]
 alpine = false
 blogSections = [ "blog", "post" ]
 breadcrumbSections = [ "section2", "section3" ]
 cookieConsent = true
-contact = "info@example.org"
-copyright = "This site is licensed under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)."
+contact = "florin@athanor.ro"
+copyright = '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
 dateformat = "January 2, 2006"
-description = ""
+description = "We are not Borg"
 favicon = ""
 feedlinks = true
 footer = "We are not Borg"
 icon = ""
 image = ""
 imageMaxWidth = "400"
+logoWidth = 64
+logoHeight = 64
 internalPagination = false
 jquery = false
 languageDir = "ltr"
@@ -40,6 +52,26 @@ sidebar = true
 siteName = false
 submitted = true
 umbrella = true
+
+[[menu.main]]
+Name = "Acasă"
+weight = -10
+pageRef = "/"
+
+[[menu.main]]
+Name = "Flux"
+weight = 2
+pageRef = "/flux"
+
+[[menu.main]]
+Name = "Distilat"
+weight = 3
+pageRef = "/distilat"
+
+[[menu.main]]
+Name = "Abonare"
+weight = 4
+pageRef = "/abonare"
 
   [params.author]
 

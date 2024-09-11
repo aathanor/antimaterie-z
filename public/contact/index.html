@@ -3,25 +3,24 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Categories – Antimaterie</title>
-<link rel="alternate" type="application/rss+xml" title="rss" href="//192.168.100.77:1313/categories/index.xml">
+<title>Contact – Antimaterie</title>
 <meta name="view-transition" content="same-origin">
-<meta name="description" content="">
+<meta name="description" content="You must have Javascript enabled to use this function. Your message was sent. There was an error sending the message. Name E-mail address Subject Message Send message ">
 <meta name="created" content="0001-01-01T00:00:00+0000">
 <meta name="modified" content="0001-01-01T00:00:00+0000">
 
 <meta name="contact" content="florin@athanor.ro">
 <meta property="og:site_name" content="Antimaterie">
-<meta property="og:title" content="Categories">
-<meta property="og:url" content="//192.168.100.77:1313/categories/">
-<meta property="og:type" content="website">
+<meta property="og:title" content="Contact">
+<meta property="og:url" content="//192.168.100.77:1313/contact/">
+<meta property="og:type" content="article">
 
 <meta name="generator" content="Hugo 0.133.0">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
 
-<link rel="canonical" href="//192.168.100.77:1313/categories/">
+<link rel="canonical" href="//192.168.100.77:1313/contact/">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
 <link rel="stylesheet" href="/css/mobile.css" media="screen">
@@ -32,9 +31,11 @@
 {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "url" : "//192.168.100.77:1313/categories/",
-    "name": "Categories",
-    "description": "We are not Borg",
+    "headline": "Contact",
+    "datePublished": "0001-01-01T00:00:00Z",
+    "dateModified": "0001-01-01T00:00:00Z",
+    "url" : "//192.168.100.77:1313/contact/",
+    "description": "You must have Javascript enabled to use this function. Your message was sent. There was an error sending the message. Name E-mail address Subject Message Send message ",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "//192.168.100.77:1313/"
@@ -52,6 +53,7 @@
 <script defer src="/libs/umbrella.min.f441cd0957482aa1fca749d678691f7e9bc427613bd52d0c4ee746ba8f7ea500.js"></script>
 <script defer src="/js/mobile.1a1f8adc3fefd1e51d766329c9f8d82a3e93e59effb236612416ebc740ba6b60.js"></script>
 <script defer src="/js/cookieconsent.0963b0881e4e87f45558516ae9bee16cbfc2f1576a6decccfd8145380c52f375.js"></script>
+<script defer src="/js/contact.a2bb3cd61e1571f851e6aa68e72f7294a972c2326f44fefe2066c32a68bc931a.js"></script>
 <script defer src="/js/script.8ef702946b14a94658f1fa4ee7289594dbcfce6247eb784cc74ae12d8d9e7f07.js"></script>
 
 
@@ -60,7 +62,7 @@
 
 </head>
 
-<body class="list-page">
+<body class="single-page">
 <div class="page layout__page layout__sidebar-second">
 <header class="header layout__header">
 <h1 class="header__site-name visually-hidden">
@@ -101,13 +103,37 @@
   </div>
 </div>
 <main class="main layout__main">
+<article class="single-view">
 <header>
-<h1 class="title">Categories</h1>
+<h1 class="title mb--xxs">Contact</h1>
+<div class="submitted meta">
+
+
+</div>
 </header>
 
+<p class="error message js-hidden">You must have Javascript enabled to use this function.</p>
+<p class="contact-submitted status message hidden">Your message was sent.</p>
+<p class="contact-error error message hidden">There was an error sending the message.</p>
+
+<form class="contact-form hidden" data-protect="/php/contact.php" action="#" method="post" accept-charset="UTF-8">
+  <label for="edit-name">Name</label>
+  <input type="text" id="edit-name" name="name" placeholder="Your name" required autofocus>
+  <label for="edit-mail">E-mail address</label>
+  <input type="email" id="edit-mail" name="email" placeholder="Your e-mail address" required>
+  <input type="text" id="edit-url" class="hidden" name="url" placeholder="Skip if you are a human">
+  <label for="edit-subject">Subject</label>
+  <input type="text" id="edit-subject" name="subject" placeholder="A short subject" required>
+  <label for="edit-message">Message</label>
+  <textarea id="edit-message" name="message" rows="5" placeholder="The messages go here…" required></textarea>
+  <button type="submit" name="submit" disabled>Send message</button>
+</form>
 
 
 
+<aside class="related layout__related">
+</aside>
+</article>
 </main>
 
 
@@ -139,7 +165,6 @@
 </nav>
 </aside>
 <footer class="footer layout__footer mt--l">
-<p>Follow categories: <a rel="alternate" type="application/rss&#43;xml" href="//192.168.100.77:1313/categories/index.xml">rss</a></p>
 <p><!-- raw HTML omitted -->
 </p>
 <p>We are not Borg</p>

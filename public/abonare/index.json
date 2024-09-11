@@ -1,0 +1,11 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Distilat on Antimaterie",
+    "description": "Recent content in Distilat on Antimaterie",
+    "home_page_url": "//192.168.100.77:1313/",
+    "feed_url": "//192.168.100.77:1313/abonare/index.json",
+    "language": "ro-RO",
+    "items": [
+        ]
+}
