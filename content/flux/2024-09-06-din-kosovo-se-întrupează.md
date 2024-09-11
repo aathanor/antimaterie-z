@@ -1,6 +1,7 @@
 ---
 title: Din Kosovo se întrupează...
 Date: 2022-03-25
+date: 2022-05-05 20:20
 author: TRU
 ---
 O declarație sulfuroasă a lui Belenessy Csaba invită doritorii la o privire prospectivă în hău. O puteți citi în [transpunerea](https://twitter.com/AlexanderFaludy/status/1506952893412384773?ref_src=twsrc%255Etfw%257Ctwcamp%255Etweetembed%257Ctwterm%255E1506952893412384773%257Ctwgr%255E%257Ctwcon%255Es1_&ref_url=https%253A%252F%252Fwww.nationalreview.com%252Fcorner%252Fright-on-hungary-once-again%252F) anglo-maghiarului Alex Faludy (un critic al guvernului Orban) și în varianta [rezumată](https://stiripesurse.directorylib.com/declaratie-total-deplasata-a-sefului-propagandei-fidesz-ungaria-nu-are-voie-sa-faca-niciun-pas-dar-t-946093.html) de presa română.  În esență, Belenessy Csaba, regizorul de imagine al partidului de guvernămînt FIDESZ, vorbește de posibila parcare în Ungaria a etnicilor maghiari și a teritoriilor locuite de maghiari, prin jocul istoriei, pus în mișcare de războiul din Ucraina. Belenessy Csaba vorbește deschis de Transcarpatia și lasă, aluziv, loc interpretărilor care ar viza Transilvania. Alegerile generale vor avea loc, în Ungaria, curînd,  pe 3 aprilie, dar nu trebuie uitat că o campanie electorală se hrănește cel mai bine din aberațiile pe care toată lumea și le dorește în secret.  
