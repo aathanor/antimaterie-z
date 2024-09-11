@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Antimaterie</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
-    <atom:link href="//192.168.100.77:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="//192.168.100.77:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</link>
@@ -19,7 +19,7 @@
       <link>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</guid>
-      <description>Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.</description>
+      <description>&lt;p&gt;Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
