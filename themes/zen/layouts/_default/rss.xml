@@ -44,7 +44,7 @@
       <author>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</author>
       {{- end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | transform.XMLEscape | safeHTML }}</description>
+      <description>{{ .Content | safeHTML }}</description>
     </item>
     {{- end }}
   </channel>
