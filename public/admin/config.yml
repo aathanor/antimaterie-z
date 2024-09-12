@@ -60,11 +60,6 @@ collections: # A list of collections the CMS should be able to edit
           format: 'YYYY-MM-DD HH:mm',
           default: '{{now}}',
         }
-      - label: 'Imagine'
-        name: 'image'
-        widget: 'image'
-        required: false
-        tagname: ''
       - label: "Autor"
         name: "author"
         widget: "relation"
