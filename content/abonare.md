@@ -1,8 +1,7 @@
 ---
 title: Abonare
-layout: "default"
+type: page
 ---
-
 
 <div class="rounded-2xl">
     <div class="mx-auto max-w-[1330px] ">
@@ -20,7 +19,3 @@ layout: "default"
         </div>
     </div>
 </div>
-
-
-
-                
