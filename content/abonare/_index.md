@@ -1,4 +1,25 @@
 ---
 title: Abonare
 ---
-în curând...
+
+
+<div class="rounded-2xl">
+    <div class="mx-auto max-w-[1330px] ">
+        <div class="max-w-screen-xl px-4 py-8 mx-auto flex items-center justify-center">
+            <div class="border border-slate-200 p-24 rounded-md bg-white shadow-md ">
+                <span class="text-3xl font-bold text-gray-700 ">Primește ultimele postări direct pe email</span>
+
+                <form action="https://rssfeedpulse.com/campaign/1f877d59-5863-4707-9182-e83eec41a428/subscribe" method="get" class="flex mt-10 gap-4">
+                    <input name="email" autocomplete="email" type="email" placeholder="adresa email" class="p-2 text-gray-700 w-full border border-slate-200" required>
+                    <button class="bg-pink-500 font-bold text-2xl text-white w-full border border-slate-300 py-2 px-4 hover:bg-pink-600 hover:text-white transition-colors duration-200 ease-in-out rounded-md">
+                        Abonează-te
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                
