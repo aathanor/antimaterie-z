@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap");
 :root {
   --color-brand: #333333;
   --color-brand-alt: #999999;
@@ -1606,6 +1607,17 @@ ul.share-buttons li {
 .post-footer > * {
   margin-bottom: 10px;
   text-align: center; /* Centers the text */
+}
+
+/* Import Source Sans 3 */
+/* Apply Source Sans 3 to body */
+body {
+  font-family: "Noto Serif", sans-serif !important;
+}
+
+/* Optionally apply to headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Serif", sans-serif;
 }
 
 /*# sourceMappingURL=styles.css.map */

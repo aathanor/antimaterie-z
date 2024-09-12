@@ -1,6 +1,6 @@
 ---
 title: Călăul despre funie în casa spânzuratului
-date: 2024-09-11 08:57
+Date: 2024-11-09
 author: Florin Cojocariu
 ---
 Raportul Draghi care deplânge scăderea competitivității europene e suspect prin însuși realizatorul lui. Ca guvernator al Băncii Central Europene între 2011 și 2019 s-a remarcat prin politici dure de susținere a euro și reducerii suveranității statelor membre; cu alte cuvinte el e un centralist care dorește mai multă putere la Bruxelles și mai puțină în capitalele europene, fiind prin asta  unul din artizanii sărăcirii economiilor din sudul Europei. Situația competitivității scăzute de acum e în mare parte produsul politicilor centraliste ale UE din perioada în care el era Guvernator și avea un cuvânt foarte greu de spus.

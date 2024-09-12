@@ -15,8 +15,8 @@ section = [ "HTML", "RSS", "JSON" ]
 
 [params]
 alpine = false
-blogSections = [ "blog", "post" ]
-breadcrumbSections = [ "section2", "section3" ]
+blogSections = [ "distilat", "flux" ]
+breadcrumbSections = [ "distilat", "flux" ]
 cookieConsent = true
 contact = "florin@athanor.ro"
 copyright = '<!--Creative Commons License-->Conținut licențiat sub <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
