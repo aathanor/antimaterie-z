@@ -4,7 +4,7 @@
 <aside class="sidebar layout__second-sidebar">
 {{ range site.Sections -}}
 <nav class="menu">
-<p class="title"><strong><a href="{{ .RelPermalink }}"{{ if eq $currentSection .Section }} aria-current="page"{{ end }}>{{ .LinkTitle }}</a></strong></p>
+<p class="sidebar-title"><strong><a href="{{ .RelPermalink }}"{{ if eq $currentSection .Section }} aria-current="page"{{ end }}>{{ .LinkTitle }}</a></strong></p>
 <ul>
 {{ range .Pages -}}
 <li><a href="{{ .RelPermalink }}"{{ if eq $currentID .File.UniqueID }} aria-current="page"{{ end }}>{{ .LinkTitle }}</a></li>

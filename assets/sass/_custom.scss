@@ -1,17 +1,128 @@
 .header__region {
     margin-inline-start: unset;
     margin-top: -105px;
-    margin-left: 400px;
+    margin-left: 435px;
 }
 .header {
     flex-direction: column;
 }
 .layout__second-sidebar {
     grid-area: side2;
-    margin-top: 60px;
+    margin-top: 150px;
 }
 
-p.menu {
-    text-align: right;
+.bg-transparent {
+    background-color: #fff;
 }
 
+.centered-box {
+    background-color: #cccccc; /* Dark gray background */
+    color: black; /* White text */
+    text-align: center; /* Center text horizontally */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    width: 100%; /* Width of the box */
+    height: 30px; /* Height of the box */
+    margin: 0 auto; /* Center the box horizontally in its container */
+    padding: 20px; /* Optional padding inside the box */
+/*    border-radius: 10px;  Optional rounded corners */
+}
+
+.comment-box {
+    background-color: #fafafa; /* Light gray background */
+    color: white; /* White text */
+    display: flex; /* Use flexbox for centering */
+    align-items: center; /* Center vertically */
+    width: 100%; /* Width of the box */
+/*    height: 40px; /* Height of the box */
+    margin: 0 auto; /* Center the box horizontally in its container */
+    margin-bottom: 20px;
+    padding: 20px; /* Optional padding inside the box */
+/*    border-radius: 10px;  Optional rounded corners */
+}
+
+#cusdis_thread {
+    width: 100%;    
+}
+
+.sidebar-title, a:link, a:visited {
+    text-align:right;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 10px; /* Adds padding inside the paragraph */
+    border-radius: 5px; /* Optional: adds rounded corners */
+}
+
+/* Style the details element */
+details {
+    margin: 1em 0; /* Adds spacing around the details block */
+    padding: 10px;
+    background-color: #f8f8f8; /* Light background for the details block */
+    border: 1px solid #ccc; /* Border around the details block */
+    border-radius: 5px; /* Optional rounded corners */
+}
+
+/* Style the summary element */
+details summary {
+    font-weight: bold; /* Makes the summary text bold */
+    cursor: pointer; /* Changes the cursor to pointer on hover */
+    padding-left: 5px;
+}
+/* Basic styling for the details and summary elements */
+details {
+    margin-bottom: 10px;
+    background-color: #f8f8f8; /* Optional background for styling */
+    padding: 5px;
+    border-radius: 5px;
+}
+/* Ensure the summary and the triangle are aligned properly */
+details summary {
+    display: flex; /* Use flexbox to align the triangle and text */
+    align-items: center; /* Align the text and triangle vertically */
+    cursor: pointer; /* Pointer cursor for interactivity */
+    padding-left: 5px; /* Optional: Adds padding to the left of the text */
+}
+
+/* Target only the headers inside <summary> elements */
+details summary h1,
+details summary h2,
+details summary h3,
+details summary h4,
+details summary h5,
+details summary h6 {
+    margin-block: 0; /* Remove the margin-block from headers inside summary */
+    padding: 10; /* Optionally remove padding if needed */
+}
+
+
+/* Specific fix for WebKit browsers (like Chrome and Safari) */
+details summary::-webkit-details-marker {
+    display: none; /* Hide the default marker */
+}
+
+/* Adding a custom triangle using pseudo-elements */
+details summary::before {
+    content: '▶'; /* Right arrow by default (closed state) */
+    display: inline-block;
+    margin-right: 10px; /* Space between triangle and text */
+    transform: rotate(0deg); /* Closed arrow */
+    transition: transform 0.3s ease; /* Smooth rotation */
+}
+
+/* When the details element is open, rotate the triangle */
+details[open] summary::before {
+    transform: rotate(90deg); /* Open state: Rotate triangle */
+}
+.flex-inline,
+.navbar {
+  --gap: 1.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+  padding: 0;
+  text-align: start;
+}

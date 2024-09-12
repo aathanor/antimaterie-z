@@ -8,6 +8,42 @@
 </header>
 
 {{ .Content }}
+<div class="centered-box"> Toate comentariile sunt moderate. </div>
+<div class="comment-box">  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="1c02f48b-0bf6-49e5-9dcb-593c3cb45410"
+    data-page-id="{{ .File.UniqueID }}"
+    data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}"
+  ></div></div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+  
+<script>
+const observer = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+        if (mutation.addedNodes.length == 0) return;
+        const iframe = mutation.addedNodes[0];
+        if (iframe.tagName !== 'IFRAME') return;
+
+        const additionalStyles = `
+        .bg-transparent {
+            background-color: #fff;
+        }
+        .my-4 {
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .text-gray-500.text-sm{
+            font-size: 0.;
+        }
+        `;
+        
+        iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+    });
+});
+observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+</script>
 
 {{ if $.Param "relatedposts" | default false }}{{ partial "related.html" . }}{{ end -}}
 

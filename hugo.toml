@@ -34,7 +34,7 @@ internalPagination = false
 jquery = false
 languageDir = "ltr"
 logo = true
-mainSections = [ "flux", "distilat" ]
+mainSections = [ "flux" ]
 math = false
 menuInHeader = true
 microUsername = ""
@@ -86,3 +86,10 @@ pageRef = "/abonare"
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title=true
