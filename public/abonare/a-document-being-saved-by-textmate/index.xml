@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abonare on Antimaterie</title>
-    <link>//192.168.100.77:1313/abonare/</link>
+    <link>//192.168.100.77:1313/abonare/a-document-being-saved-by-textmate/</link>
     <description>Recent content in Abonare on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
-      <atom:link href="//192.168.100.77:1313/abonare/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="//192.168.100.77:1313/abonare/a-document-being-saved-by-textmate/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

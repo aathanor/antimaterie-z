@@ -73,18 +73,23 @@
 </description>
     </item>
     <item>
-      <title></title>
-      <link>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About</title>
       <link>//192.168.100.77:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//192.168.100.77:1313/about/</guid>
       <description><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</description>
+    </item>
+    <item>
+      <title>Călăul despre funie în casa spânzuratului</title>
+      <link>//192.168.100.77:1313/flux/2024-09-11-c%C4%83l%C4%83ul-despre-funie-%C3%AEn-casa-sp%C3%A2nzuratului/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/flux/2024-09-11-c%C4%83l%C4%83ul-despre-funie-%C3%AEn-casa-sp%C3%A2nzuratului/</guid>
+      <description><p>Raportul Draghi care deplânge scăderea competitivității europene e suspect prin însuși realizatorul lui. Ca guvernator al Băncii Central Europene între 2011 și 2019 s-a remarcat prin politici dure de susținere a euro și reducerii suveranității statelor membre; cu alte cuvinte el e un centralist care dorește mai multă putere la Bruxelles și mai puțină în capitalele europene, fiind prin asta  unul din artizanii sărăcirii economiilor din sudul Europei. Situația competitivității scăzute de acum e în mare parte produsul politicilor centraliste ale UE din perioada în care el era Guvernator și avea un cuvânt foarte greu de spus.</p>
+<p>Ca Prim Ministru al Italiei s-a remarcat prin cele mai dure măsuri de lockdown și vaccinare forțată din UE. Nu trebuie să uităm că firmele care primeau la lucru angajați nevaccinați erau amendate cu sume astronomice în mandatul lui. La fel, nu trebuie să uităm că guvernul lui a sabotat și faultat permanent cea mai importantă inițiativă a societății civile (construită de medici și lucrători sanitari) care a ajutat la tratamentul în ambulatoriu al pacienților mai puțini grav cu medicație existentă deja. Din nou un centralist, ale cărui soluții sunt întotdeauna în decizii dure implementate de la centru în numele unei politici declarate (deseori arbitrar) ca &ldquo;necesară&rdquo;.</p>
+<p>Nu e întâmplator că madame von der Leyen l-a însărcinat tocmai pe el cu raportul privind competitivitatea. Bruxelles-ul are o singură tactică de reducere constantă a suveranității statelor și creștere a puterii Comisiei, fără ca tratatele inițiale să prevadă asta: crizele care &ldquo;impun&rdquo; măsuri excepționale; măsuri excepționale care rămân sub forma directivelor ca legislație obligatorie pentru toate statele. Au făcut asta de la prima criză economică din 2008 și au continuat în forță cu COVID și războiul din Ukraina. Acum urmează &ldquo;criza competitivității&rdquo;</p>
+<p>Problemele identificate de raportul Draghi sunt în mare adevărate. Stilul e cunoscut, diagnoza e bună, tratamentul însă e unul singur: mai multă cedare de suveranitate și mai mult centralism. Până și înalții preoți europeni sunt nevoiți să admită că birocrația excesivă și reglementările prea numeroase  sunt cauza principală a lipsei de competitivitate (împreună cu sancțiunile împotriva Rusiei care au pus Germania la pământ). Dar precum în prea cunoscutul dicton &ldquo;Cine are doar un ciocan, vede peste tot cuie&rdquo;, soluția clerului tehnocrat la abuzul de birocrație e și mai multă birocrație.</p>
+<p>În realitate acesta e cancerul fundamental al Uniunii, pentru că CE își trage puterea tocmai din reglementarea excesivă, deci nu va fi niciodată capabilă să-și distrugă propria bază de putere. Pentru clerul birocrat de la Bruxelles hârtiile sunt cu mult mai importante decât realitatea, de unde și desprinderea lor aproape totală de ea. De altfel abordarea lui vond der Leyen e exemplară: pentru a ataca o problemă gravă de care se plâng constant toate companiile europene, prea târziu recunoscută public, ea începe prin a cere <em>un raport</em> unuia din cei mai birocrați politicieni din anturaj. Așa vom muri cu toții în UE, îngropați în hârtii.</p>
 </description>
     </item>
     <item>
@@ -154,6 +159,14 @@
   </article>
 </template>
 
+</description>
+    </item>
+    <item>
+      <title>TRU</title>
+      <link>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</guid>
+      <description><p>Bio TRU</p>
 </description>
     </item>
   </channel>

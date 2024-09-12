@@ -1,7 +1,17 @@
 <article class="list-view{{ with .Section }} list-view--{{ . | urlize }}{{ end }}">
 <header>
-<h2 class="title mt--s{{ if $.Param "submitted" | default false }} mb--xxs{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-{{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . -}}{{ end }}
+  <h2 class="title mt--s{{ if $.Param "submitted" | default false }} mb--xxs{{ end }}">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h2>
+  {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . -}}{{ end }}
 </header>
-{{ .Summary }} ...
+
+{{ .Summary }}
+
+{{ if gt (len .Summary) 400 }} <!-- Check if the summary is greater than 400 characters -->
+  <div style="display: inline; font-style: italic; font-size: 0.85em;">
+    <a href="{{ .RelPermalink }}"> [mai mult ->]</a>
+  </div>
+{{ end }}
+
 </article>

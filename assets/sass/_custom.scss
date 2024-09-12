@@ -126,3 +126,14 @@ details[open] summary::before {
   padding: 0;
   text-align: start;
 }
+
+.main-content {
+    width: 100%;
+    float: none; /* Ensure it doesn't float under the sidebar */
+    clear: both; /* Clears any floating elements (like the sidebar) */
+    display: block;
+}
+
+.section {
+    margin-bottom: 20px;
+}
