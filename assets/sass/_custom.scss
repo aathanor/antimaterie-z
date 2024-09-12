@@ -184,3 +184,17 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Serif', sans-serif;
 }
 
+.button--pink {
+  background-color: #e91e63;
+  border-color: #e91e63;
+  color: white;
+
+  &:hover,
+  &:focus-visible,
+  &:active {
+    background-color: #d81b60;
+    border-color: #d81b60;
+    color: white;
+  }
+}
+

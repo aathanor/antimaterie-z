@@ -715,6 +715,7 @@ button[disabled],
   border: 1px solid var(--color-button-disabled);
   background-image: none;
   text-shadow: none;
+  margin-left: 8px;
 }
 
 .cards {
@@ -1618,6 +1619,17 @@ body {
 /* Optionally apply to headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Serif", sans-serif;
+}
+
+.button--pink {
+  background-color: #e91e63;
+  border-color: #e91e63;
+  color: white;
+}
+.button--pink:hover, .button--pink:focus-visible, .button--pink:active {
+  background-color: #d81b60;
+  border-color: #d81b60;
+  color: white;
 }
 
 /*# sourceMappingURL=styles.css.map */

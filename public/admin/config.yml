@@ -57,7 +57,7 @@ collections: # A list of collections the CMS should be able to edit
           label: 'Data publicării',
           name: 'date',
           widget: 'datetime',
-          format: 'YYYY-MM-DD HH:mm',
+          format: 'YYYY-MM-DD',
           default: '{{now}}',
         }
       - label: "Autor"
@@ -99,7 +99,7 @@ collections: # A list of collections the CMS should be able to edit
           label: 'Data publicării',
           name: 'date',
           widget: 'datetime',
-          format: 'YYYY-MM-DD HH:mm',
+          format: 'YYYY-MM-DD',
           default: '{{now}}',
         }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
