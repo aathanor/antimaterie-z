@@ -1,6 +1,6 @@
 ---
 title: Despre stilul textelor pe care le scriem
-date: 2024-09-12 11:24
+date: 2024-09-11 00:00
 author: Florin Cojocariu
 ---
 Schemele noastre de limbaj (pe care le folosim inconștient) sunt dobândite prin expunerea repetată la schemele altora. În felul ăsta, pe parcursul anilor, stilurile încep să semene; nu e în sine un lucru rău, vocabularul se lărgește, paleta de scheme aplicate se îmbunătățește. ChatGPT poate face asta în câteva microsecunde, plecând de la o definiție a unui model de stil, dar folosește același principiu, caută scheme de limbaj pe care să le replice.
