@@ -1,5 +1,6 @@
 ---
 title: Abonare
+layout: "default"
 ---
 
 
