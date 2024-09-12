@@ -4,6 +4,7 @@ draft: false
 Date: 2023-06-15
 cover:
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3503283f-51a7-4c96-9ecb-58a5a8a09481_1402x1752.png
+date: 2024-09-12
 author: TRU
 ---
 Ce se poate vedea în fotografia de mai sus? Carnavalul spasmodic de la sfîrșitul lumii americane. Triumful libertății în derută. De fapt, nimic nou în această imagine care repetă încremenirea în grotesc a civilizațiilor la capăt de drum. Roma 400, Bizanț,1400, Viena 1900, Berlin 1930, Washington 2020 - toate strălucind în întuneric, cu senzația unei superiorități finale, de neatins. Cum am ajuns aici? Pe același drum.
