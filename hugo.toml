@@ -53,6 +53,7 @@ sidebar = true
 siteName = false
 submitted = true
 umbrella = true
+ShowShareButtons = true
 
 [[menu.main]]
 Name = "Flux"

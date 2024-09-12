@@ -1574,4 +1574,38 @@ details[open] summary::before {
   margin-bottom: 20px;
 }
 
+.share-buttons {
+  justify-content: unset;
+}
+
+ul.share-buttons {
+  list-style-type: none !important; /* Removes bullets */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+  display: flex; /* Flexbox for horizontal alignment */
+  justify-content: center; /* Centers the content */
+  gap: 20px; /* Adds space between the buttons */
+}
+
+ul.share-buttons li {
+  list-style-type: none !important; /* Removes bullets */
+  display: inline-block; /* Ensures items are treated as inline */
+  margin: 0; /* Removes any default margin */
+  padding: 0; /* Removes any default padding */
+}
+
+.post-footer * {
+  padding-bottom: 10px; /* Adds 10px padding to the bottom */
+}
+
+.post-footer {
+  margin-top: 20px;
+  text-align: center; /* Centers the text */
+}
+
+.post-footer > * {
+  margin-bottom: 10px;
+  text-align: center; /* Centers the text */
+}
+
 /*# sourceMappingURL=styles.css.map */
