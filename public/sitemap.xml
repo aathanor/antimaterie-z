@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.100.77:1313/flux/2024-09-12-c%C4%83l%C4%83ul-despre-funie/</loc>
-    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+    <loc>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</loc>
+    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/</loc>
-    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-12-un-test-ptr-rss/</loc>
-    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+    <loc>//192.168.100.77:1313/distilat/</loc>
+    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//192.168.100.77:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//192.168.100.77:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</loc>
@@ -19,9 +19,6 @@
   </url><url>
     <loc>//192.168.100.77:1313/</loc>
     <lastmod>2022-08-03T20:48:20+02:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-06-din-kosovo-se-%C3%AEntrupeaz%C4%83/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//192.168.100.77:1313/abonare/</loc>
   </url><url>
@@ -32,8 +29,6 @@
     <loc>//192.168.100.77:1313/categories/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/contact/</loc>
-  </url><url>
-    <loc>//192.168.100.77:1313/distilat/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
   </url><url>

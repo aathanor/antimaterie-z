@@ -1,0 +1,68 @@
+{{ define "main" -}}
+<main class="main layout__main">
+<article class="single-view{{ with .Section }} single-view--{{ . | urlize }}{{ end }}">
+<header>
+<h1 class="title{{ if $.Param "submitted" | default false }} mb--xxs{{ end }}">{{ .Title }}single-distilat-layouts</h1>
+{{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
+{{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
+</header>
+
+{{ .Content }}
+<hr>
+   <div class="post-footer"> <p> Partajează postarea: </p>
+  {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+  {{- partial "share_icons.html" . -}}
+  {{- end }} </div>
+<hr>
+<div class="centered-box"> Toate comentariile sunt moderate. </div>
+<div class="comment-box">  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="1c02f48b-0bf6-49e5-9dcb-593c3cb45410"
+    data-page-id="{{ .File.UniqueID }}"
+    data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}"
+  ></div></div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+  
+<script>
+const observer = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+        if (mutation.addedNodes.length == 0) return;
+        const iframe = mutation.addedNodes[0];
+        if (iframe.tagName !== 'IFRAME') return;
+
+        const additionalStyles = `
+        .bg-transparent {
+            background-color: #fff;
+        }
+        .my-4 {
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .text-gray-500.text-sm{
+            font-size: 0.;
+        }
+        `;
+        
+        iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+    });
+});
+observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+</script>
+
+{{ if $.Param "relatedposts" | default false }}{{ partial "related.html" . }}{{ end -}}
+
+{{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
+</article>
+
+{{ range .Params.examples }}
+<section class="{{ .class }}">
+<h2>{{ .title }}</h2>
+
+<p>{{ .text }}</p>
+</section>
+{{ end }}
+
+</main>
+{{ end -}}
