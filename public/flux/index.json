@@ -6,6 +6,7 @@
     "home_page_url": "//192.168.100.77:1313/",
     "feed_url": "//192.168.100.77:1313/flux/index.json",
     "language": "ro-RO",
+    "favicon": "//192.168.100.77:1313/static",
     "items": [
         {
             "title": "Călăul, despre funie.",
