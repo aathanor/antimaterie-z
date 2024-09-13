@@ -28,7 +28,7 @@ footer = "We are not Borg"
 icon = ""
 image = "/logo.png"
 imageMaxWidth = "400"
-logoWidth = 100
+logoWidth = 220
 logoHeight = 100
 internalPagination = false
 jquery = false
@@ -49,7 +49,7 @@ privacyPolicyUrl = ""
 relatedposts = true
 sassTranspiler = "dartsass"
 searchLimit = 20
-sidebar = true
+sidebar = false
 siteName = false
 submitted = true
 umbrella = true
@@ -69,6 +69,11 @@ pageRef = "/distilat"
 Name = "Abonare"
 weight = 4
 pageRef = "/abonare"
+
+[[menu.main]]
+Name = "Autori"
+weight = 5
+pageRef = "/authors"
 
   [params.author]
 

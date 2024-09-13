@@ -1,14 +1,14 @@
 .header__region {
     margin-inline-start: unset;
-    margin-top: -105px;
-    margin-left: 435px;
+    margin-top: -85px;
+    margin-left: 350px;
 }
 .header {
     flex-direction: column;
 }
-.layout__second-sidebar {
+aside.sidebar.layout__second-sidebar {
     grid-area: side2;
-    margin-top: 150px;
+    padding-top: 150px;
 }
 
 .bg-transparent {
@@ -47,8 +47,12 @@
 }
 
 .sidebar-title, a:link, a:visited {
-    text-align:right;
+    text-align:left;
     text-decoration: none;
+}
+
+.menu {
+    padding:20px;
 }
 
 .hero {
@@ -64,19 +68,21 @@ details {
     background-color: #f8f8f8; /* Light background for the details block */
     border: 1px solid #ccc; /* Border around the details block */
     border-radius: 5px; /* Optional rounded corners */
+    padding: 10px;
+    font-size: 0.8rem;
 }
 
 /* Style the summary element */
 details summary {
     font-weight: bold; /* Makes the summary text bold */
     cursor: pointer; /* Changes the cursor to pointer on hover */
-    padding-left: 5px;
+    padding: 10px;
 }
 /* Basic styling for the details and summary elements */
 details {
     margin-bottom: 10px;
     background-color: #f8f8f8; /* Optional background for styling */
-    padding: 5px;
+    padding: 10px;
     border-radius: 5px;
 }
 /* Ensure the summary and the triangle are aligned properly */
@@ -84,7 +90,7 @@ details summary {
     display: flex; /* Use flexbox to align the triangle and text */
     align-items: center; /* Align the text and triangle vertically */
     cursor: pointer; /* Pointer cursor for interactivity */
-    padding-left: 5px; /* Optional: Adds padding to the left of the text */
+    padding: 10px; /* Optional: Adds padding to the left of the text */
 }
 
 /* Target only the headers inside <summary> elements */
@@ -198,3 +204,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.layout__second-sidebar {
+    grid-area: side2;
+    background-color: whitesmoke;
+}
