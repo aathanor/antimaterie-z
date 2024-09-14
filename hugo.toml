@@ -12,6 +12,8 @@ notAlternative = true
 [outputs]
 home = [ "HTML", "RSS", "JSON", "SearchIndex" ]
 section = [ "HTML", "RSS", "JSON" ]
+taxonomy = ['html']
+term = ['html']
 
 [params]
 alpine = false
