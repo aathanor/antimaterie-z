@@ -7,6 +7,8 @@ Așadar Festivalul de Film din Toronto (TIFF) a oprit proiecția lui "Russians a
 
 Începi să te întrebi ce e în filmul ăla să merite atâta ură și efort dus până la activități criminale, că amenințările alea nu sunt doar retorică.
 
+<!--more-->
+
 Aflăm răspunsul în articolul ăsta de la Agerpres:
 
 > Potrivit unui jurnalist al AFP care a văzut pelicula, cei care apar pe ecran par să fi pierdut sensul participării la acest conflict. Lipsiţi de echipament, ei îşi improvizează singuri armele, folosind materiale din era sovietică. Fumând şi bând, soldaţii încearcă să îşi înece disperarea provocată de răni sau de moartea camarazilor lor.
