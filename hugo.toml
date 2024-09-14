@@ -77,6 +77,11 @@ Name = "Autori"
 weight = 5
 pageRef = "/authors"
 
+[[menu.main]]
+Name = "test RSS"
+weight = 7
+pageRef = "/test_RSS"
+
   [params.author]
 
   [params.podcast]

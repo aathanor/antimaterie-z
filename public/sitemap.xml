@@ -14,6 +14,12 @@
     <loc>//192.168.100.77:1313/flux/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/test_rss/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//192.168.100.77:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,9 +38,13 @@
   </url><url>
     <loc>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
   </url><url>
+    <loc>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</loc>
+  </url><url>
     <loc>//192.168.100.77:1313/search/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/tags/</loc>
+  </url><url>
+    <loc>//192.168.100.77:1313/test/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</loc>
   </url>
