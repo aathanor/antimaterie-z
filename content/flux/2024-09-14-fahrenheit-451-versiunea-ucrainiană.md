@@ -3,7 +3,7 @@ title: Fahrenheit 451, versiunea ucrainiană
 date: 2024-09-14
 author: Florin Cojocariu
 ---
-Așadar Festivalul de Film din Toronto (TIFF) a oprit proiecția lui "Russians at War" din motive de siguranță, după ce au primit "amenințări semnificative la adresa operațiunilor festivalului și la adresa publicului"  Cine altcineva decât ucrainienii ar avea determinarea să facă așa ceva? Auzim neîncetat că filmul e un film de propagandă și de aia nu trebuie să-l vedem. Om fi oare chiar atât de proști să nu putem judeca asta cu mintea noastră *după* ce vedem filmul și avem nevoie de ucrainieni să îl oprească de la difuzare cu orice chip peste tot în lume?
+Așadar Festivalul de Film din Toronto (TIFF) a oprit proiecția lui "Russians at War" din motive de siguranță, după ce au primit "*amenințări semnificative la adresa operațiunilor festivalului și la adresa publicului*"  Cine altcineva decât ucrainienii ar avea determinarea să facă așa ceva? Auzim neîncetat că filmul e un film de propagandă și de aia nu trebuie să-l vedem. Om fi oare chiar atât de proști să nu putem judeca asta cu mintea noastră *după* ce vedem filmul și avem nevoie de ucrainieni să îl oprească de la difuzare cu orice chip peste tot în lume?
 
 Începi să te întrebi ce e în filmul ăla să merite atâta ură și efort dus până la activități criminale, că amenințările alea nu sunt doar retorică.
 
