@@ -208,3 +208,17 @@ h1, h2, h3, h4, h5, h6 {
     grid-area: side2;
     background-color: whitesmoke;
 }
+
+/* Deep pink links for article content */
+.single-view a {
+    color: deepPink;
+}
+
+/* Deep pink color for social sharing icons */
+ul.share-buttons a {
+    color: deepPink;
+}
+
+ul.share-buttons a:hover {
+    color: darkMagenta; /* Optional: Hover color for icons */
+}
