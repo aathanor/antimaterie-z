@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//192.168.100.77:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//192.168.100.77:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/flux/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
