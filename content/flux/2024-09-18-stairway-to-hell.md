@@ -11,10 +11,13 @@ Ce s-a întâmplat însă ieri e complet altceva: o lovitură "în orb", pe teri
 
 1. La ce servește un atac care indisponibilizează doar temporar pe marea majoritate a celor atacați în timp ce rata de deces e sub 1%? Pentru că una era să scoți definitiv din circuit membrii Hezbollah și alta să-i bagi în spital de unde vor reveni relativ repede cu o dorință de răzbunare și sacrificiu înzecită. 
 
-2. Cum rămâne cu completa ignorare de către Israel a victimelor inocente (spre deosebire de oricare alte atentate de dinainte și portretizarea Mossad în filme ca fiind foarte grijulie să evite victimele colaterale civile) ? E deja evident că pagerele respective la momentul exploziei au rănit și omorât civili inocenți care erau în preajma lor. Și e la fel de evident că era practic imposibil să te asiguri că nu vor exista victime colaterale civile la momentul detonării.\
-\
-Ambele întrebări au răspunsuri foarte neplăcute. Lor li se adaugă însă un soi de lăudăroșenie la limita infantilității a diverșilor reprezentanți israelieni, printre care purtătorului de cuvânt al armatei israeliene Jonathan Conricus:
+2. Cum rămâne cu completa ignorare de către Israel a victimelor inocente (spre deosebire de oricare alte atentate de dinainte și portretizarea Mossad în filme ca fiind foarte grijulie să evite victimele colaterale civile) ? E deja evident că pagerele respective la momentul exploziei au rănit și omorât civili inocenți care erau în preajma lor. Și e la fel de evident că era practic imposibil să te asiguri că nu vor exista victime colaterale civile la momentul detonării.
+
+Ambele întrebări au răspunsuri foarte neplăcute: la 1) răspunsul e că s-a urmărit escaladarea și acutizare conflictului și nu terminarea lui.[^1] La 2) concluzia e fără apel: durata și cruzimea conflictului au deteriorat ireversibil standardele morale ale politicienilor evrei (astfel de lovituri nu se dau fără aprobarea lor).  Li se adaugă însă un soi de lăudăroșenie la limita infantilității a diverșilor reprezentanți israelieni, printre care purtătorului de cuvânt al armatei israeliene Jonathan Conricus:
 
 > *How ironic is it that a primitive comms device distributed by Hezbollah to its key personnel in order to avoid eavesdropping by Israel has been used as a lethal weapon in the world’s most elaborate cyber attack. Brilliant.*
 
-Brilliant indeed.
+Brilliant indeed. În primul rând că după toate datele de până acum acesta nu e în nici o măsură un "cyber-attack". Apoi letalitatea acestei "arme", la o rată de succes de sub 1%, e foarte discutabilă. Și, în ultimul rând, e destul de evident că așa zisa armă nu a ajuns numai la "membrii cheie ai Hezbollah. Totul pare să fi fost planificat și derulat cu scopul unei lovituri de imagine care să repare reputația cam șifonată după 7 octombrie  a Mossadului. Însă implicațiile atacului vor fi 
+
+
+[^1]: există și comentatori pro-israelieni care observă lipsa de relavanță strategică a atacului și oribirea tactică de care suferă Israelul în conflictul existențial cu Iranul.
