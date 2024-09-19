@@ -1,6 +1,6 @@
 ---
 title: Stairway to Hell
-date: 2024-09-18
+date: 2024-09-19
 author: Florin Cojocariu
 ---
 Războaiele, pe măsură ce durează mai mult, alterează pe nesimțite ceea ce în vremuri normale par a fi "standarde morale" inviolabile, înscrise în piatră. În războiul din Ucraina s-a trecut cam repede de la empatia și solidaritatea cu refugiații ucrainieni la discursul despre orcile rusești  (adică ființe complet inumane), clipuri cu ucideri ale soldaților ruși ilustrate cu piese furioase de rock-metal sau trash și ideea că nici o escaladare nu e prea periculoasă. Oameni serioși și cumsecade în viața de zi cu zi au devenit susținători entuziaști ai exterminării inamicului cu orice chip și sunt gata să te extermine și pe tine dacă arăți vreo îndoială că acesta ar putea fi un scop nobil care servește civilizației europene.
