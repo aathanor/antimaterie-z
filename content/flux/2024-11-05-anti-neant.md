@@ -5,13 +5,11 @@ author: TRU
 ---
 Votați anti-neant! 
 
- 
-
-De ce? Pentru că! Această structră de gîndire e depășită. Alegerile din America au ieșit din strînsoarea săracă a logicii și cer salvarea tuturor lucrurilor: a lumii. Rezultatul lor nu va mai trimite la una sau alta din variantele admisibile ale politicii și ideologiei, la dreapta sau la stînga, la piață sau la dirijism, la partidul meu sau la partidul tău, la candidatul tău sau la candidatul meu. Rezultatul lor nu va prescrie un nou regim ci un destin.
+De ce? Pentru că! Această structură de gîndire e depășită. Alegerile din America au ieșit din strînsoarea săracă a logicii și cer salvarea tuturor lucrurilor: a lumii. Rezultatul lor nu va mai trimite la una sau alta din variantele admisibile ale politicii și ideologiei, la dreapta sau la stînga, la piață sau la dirijism, la partidul meu sau la partidul tău, la candidatul tău sau la candidatul meu. Rezultatul lor nu va prescrie un nou regim ci un destin.
 
 E dramatic, simplu și clar.
 
-Dacă Trump cîștigă, America și lumea primesc timp, în chiar clipa în care timpul pare aproape de sfîrșit. Atît, măcar atît: marșul dement spre o utopie sinucigață va fi întîrziat.
+Dacă Trump cîștigă, America și lumea primesc timp, în chiar clipa în care timpul pare aproape de sfîrșit. Atît, măcar atît: marșul dement spre o utopie sinucigașă va fi întîrziat.
 
 Dacă Harris cîștigă, prin furt cinstit sau prin minciuni adevărate, ruina e inevitabilă.
 
@@ -19,7 +17,7 @@ Căci – de repetat – nu vorbim de valori și variante ale politicii. Vorbim 
 
 Pentru prima oară în istoria Americii și a lumii occidentale, un regim nevăzut și atotputernic promite cu mîndrie nimicirea Americii și a lumii occidentale. Cu Harris – de fapt, fără ea, căci Harris nu există ci e o non-entitate de unică folosință – vin și se îmbină, deodată, segmentele care aduc extincția. Dominoul vid și final.
 
-Vine dispariția legiferată a triadei mamă-tată-copil pe care stă noțiunea ultimă de civilizxație. Vine de-industralizarea mîncătoare de populații și născătoare de disperare. Vine societatea închiriată de sistemul auto-conducător. Și stau pe tron cenzura, îndoctrinarea, prostia, incompetența și neștiința de a mai face ceva -orice- cu mîna și cu mintea ta. La un loc: dezintegrarea unei umanități dresată să își blesteme trecutul, părinții și valorile.
+Vine dispariția legiferată a triadei mamă-tată-copil pe care stă noțiunea ultimă de civilizație. Vine de-industralizarea mîncătoare de populații și născătoare de disperare. Vine societatea închiriată de sistemul auto-conducător. Și stau pe tron cenzura, îndoctrinarea, prostia, incompetența și neștiința de a mai face ceva -orice- cu mîna și cu mintea ta. La un loc: dezintegrarea unei umanități dresată să își blesteme trecutul, părinții și valorile.
 
 Nu e nici un secret. Totul e la vedere. Harris nu știe, nu vorbește și nu gîndește. Harris e ireală și rîde continuu cu un zîmbet în care e loc pentru întunecarea tuturor lucrurilor. Nimic despre frontiere prin care curg milioane de oameni nechemați, nimic despre industrii și economie, zero despre orice și totul despre CEVA. Acel CEVA care conduce la despărțirea de realitate și de complicațiile glorioase ale vieții. Formula instantanee a existenței cedate unei elite care s-a proclamat Dumnezeu.
 
