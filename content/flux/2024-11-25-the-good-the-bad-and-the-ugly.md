@@ -17,7 +17,7 @@ The Good:
 The Bad:
 
 1. România nu mai are partide politice viabile. Mulțumită, din nou, lui Iohannis, marile partide tradiționale sunt în colaps. Chiar dacă Ciolacu intră în 2 și câștigă, va fi probabil cel mai trist președinte din istorie, cu cea mai mică legitimitate posibilă. Până în parlamentare va fi imposibil de schimbat ceva.
-2. Bruxelles-ul va face ce știe mai bine, mai multă propagandă. Mai mulți bani aruncați pe convingerea bizonului românesc că inflația, războiul și lupta împotriva lui Dumnezeu sunt bune. Asta va adânci (ca în SUA) prăpastia dintre urbanii rupți de realitate și ruralii fără opțiuni.
+2. Bruxelles-ul va face ce știe mai bine, mai multă propagandă. Mai mulți bani aruncați pe convingerea bizonului românesc că inflația, războiul și lupta împotriva lui Dumnezeu sunt bune. Asta va adânci (ca în SUA) prăpastia dintre urbanii rupți de realitate și ruralii fără opțiuni. (Pe G4 a apărut azi nimeni altul decât marele istoric Oliver Jens Schmitt vorbind despre pericolul legionar reprezentat de Georgescu!)
 3. Va urma o mare turbulență în partide și în toată politica românească, în care de obicei oportuniștii se bagă în față. Dacă vă amintiți cu ce bagaj a venit AUR în Parlament, acum va fi mai rău cu Georgescu. Turbulența nu e însă bună, mai ales în vremuri dificile economic. Pentru că decontul pentru deficitul enorm din an electoral va trebui plătit.
 
 The Ugly:
