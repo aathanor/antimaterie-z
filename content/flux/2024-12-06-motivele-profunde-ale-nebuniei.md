@@ -29,6 +29,6 @@ Mai e însă un amănunt important: deși Blinken s-a grăbit să înfiereze pe 
 
 [^1]: după discuții cu unul și cu altul (mulțumesc mai ales lui C.), impresia mea e că Georgescu era pur și simplu ignorat de servicii dar și de establishment, dacă nu chiar încurajat și creat de ele, fiind văzut mai degrabă ca un idiot util care va fragmenta votul pentru Simion. Nimeni nu avea însă nici o idee despre ce s-a petrecut în diaspora care e, probabil, și mai slab controlată operativ și văzută tradițional ca userist-predictibilă. Diaspora rămâne lebăda neagră în povestea asta.
 
-[^2]: una din dimensiuni e una neformulată explicit dar cumva insinuată prin neclaritate: că multe din conturile care urmăresc pe Georgescu sunt "umflate" neorganic, adică false.
+[^2]: una din dimensiuni e neformulată explicit dar cumva insinuată prin neclaritate: că multe din conturile care urmăresc pe Georgescu sunt "umflate" neorganic, adică false.
 
 [^3]: am fost parte sau martor apropiat nașterii unui număr de partide noi, de-a lungul anilor. Toate au eșuat rapid după ce niște șmecheri fără scrupule au folosit entuziasmul bazat pe proiecții al masei pentru a accede la bani și putere. PLUS al lui Dacian Cioloș e în sensul ăsta aproape un caz de manual.
