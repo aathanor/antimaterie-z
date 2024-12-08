@@ -53,5 +53,6 @@
 
 {{ if $.Param "cookieconsent" }}{{ partialCached "cookieconsent.html" . }}{{ end -}}
 </div>
+{{ template "_internal/google_analytics.html" . }}
 </body>
 </html>

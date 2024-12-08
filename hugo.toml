@@ -15,8 +15,9 @@ section = [ "HTML", "RSS", "JSON" ]
 taxonomy = ['html']
 term = ['html']
 
-[services.googleAnalytics]
-id = "G-YCEPNKDC74"
+[services]
+  [services.googleAnalytics]
+    ID = "G-YCEPNKDC74"
 
 [params]
 alpine = false
@@ -57,6 +58,9 @@ submitted = true
 umbrella = true
 ShowShareButtons = true
 summaryLength = 30
+
+[params.google.analytics]
+id = "G-YCEPNKDC74"
 
 [[menu.main]]
 Name = "Flux"

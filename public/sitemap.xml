@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.100.77:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//192.168.100.77:1313/flux/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-12-07-mereu-la-putere/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-05-anti-neant/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</loc>
+    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-10-12-va-mai-tot-urma/</loc>
+    <lastmod>2024-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-09-18-stairway-to-hell/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//192.168.100.77:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//192.168.100.77:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</loc>
@@ -38,6 +83,8 @@
   </url><url>
     <loc>//192.168.100.77:1313/authors/</loc>
   </url><url>
+    <loc>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</loc>
+  </url><url>
     <loc>//192.168.100.77:1313/categories/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/contact/</loc>
@@ -45,6 +92,8 @@
     <loc>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</loc>
+  </url><url>
+    <loc>//192.168.100.77:1313/authors/maica-m/</loc>
   </url><url>
     <loc>//192.168.100.77:1313/search/</loc>
   </url><url>

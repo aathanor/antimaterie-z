@@ -9,6 +9,14 @@
     "favicon": "//192.168.100.77:1313/static",
     "items": [
         {
+            "title": "Bogdan Iacob",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/",
+            "url": "//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/",
+            "content_html": "\u003cp\u003eBogdan Iacob\u003c/p\u003e\n"
+        },
+        {
             "title": "Florin Cojocariu",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
@@ -17,12 +25,20 @@
             "content_html": "\u003cp\u003eFlorin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.\u003c/p\u003e\n"
         },
         {
+            "title": "Maica M.",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "//192.168.100.77:1313/authors/maica-m/",
+            "url": "//192.168.100.77:1313/authors/maica-m/",
+            "content_html": "\u003cp\u003eMaica M. e mai timidă. La drept vorbind n-avem nici o idee când s-ar hotărî să scrie.\u003c/p\u003e\n"
+        },
+        {
             "title": "TRU",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
             "id": "//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/",
             "url": "//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/",
-            "content_html": "\u003cp\u003eBio TRU\u003c/p\u003e\n"
+            "content_html": "\u003cp\u003ePentru cine-l știe, nu-i nevoie de biografie. Nici pentru cine nu-l știe.\u003c/p\u003e\n"
         }
         ]
 }

@@ -8,6 +8,13 @@
     <language>ro-RO</language>
     <atom:link href="//192.168.100.77:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bogdan Iacob</title>
+      <link>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</guid>
+      <description>Bogdan Iacob</description>
+    </item>
+    <item>
       <title>Florin Cojocariu</title>
       <link>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,11 +22,18 @@
       <description>Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.</description>
     </item>
     <item>
+      <title>Maica M.</title>
+      <link>//192.168.100.77:1313/authors/maica-m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//192.168.100.77:1313/authors/maica-m/</guid>
+      <description>Maica M. e mai timidă. La drept vorbind n-avem nici o idee când s-ar hotărî să scrie.</description>
+    </item>
+    <item>
       <title>TRU</title>
       <link>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</guid>
-      <description>Bio TRU</description>
+      <description>Pentru cine-l știe, nu-i nevoie de biografie. Nici pentru cine nu-l știe.</description>
     </item>
   </channel>
 </rss>
