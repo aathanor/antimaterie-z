@@ -15,6 +15,9 @@ section = [ "HTML", "RSS", "JSON" ]
 taxonomy = ['html']
 term = ['html']
 
+[services.googleAnalytics]
+id = "G-YCEPNKDC74"
+
 [params]
 alpine = false
 blogSections = [ "distilat", "flux" ]
@@ -27,6 +30,7 @@ description = "We are not Borg"
 favicon = "/static"
 feedlinks = true
 footer = "We are not Borg"
+googleAnalytics = "G-YCEPNKDC74"
 icon = ""
 image = "images/logo.png"
 imageMaxWidth = "400"
@@ -42,10 +46,6 @@ menuInHeader = true
 microUsername = ""
 mobileMenu = true
 mobileMenuOutline = true
-piwikTrackerUrl = "antimaterie.matomo.cloud/"
-piwikSiteID = "1"
-plausibleSiteID = "1"
-plausibleTrackerURL = ""
 poweredby = true
 privacyPolicyUrl = ""
 relatedposts = true
