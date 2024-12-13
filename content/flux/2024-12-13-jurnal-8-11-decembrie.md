@@ -1,0 +1,20 @@
+---
+title: Jurnal 8-11 decembrie
+date: 2024-12-13
+author: Maica M.
+---
+8 decembrie
+
+Duminică liniștită. Seara, tulburată totuși de un concert în biserica la care merg. Solidar, am decis să particip, în public, alături de enoriași. Lume mai multă decât de obicei, de unde înțeleg că un concert de sezon e mai atractiv decât o liturghie “for all seasons”. Morala concertului, de la care am plecat înainte să se încheie, după un lung exercițiu de răbdare, e că încă mă crispează amestecul sacru-secular, și concertele, chiar “pioase”, în biserici. La un moment dat, o soprană în plin ἐνθουσῐᾰσμός, a început să gesticuleze pe solee, cu brațele ridicate păsămite evlavios către cer și o voce, pentru mine măcar, prea stridentă pentru context. Nu e prima oară când remarc că, începând chiar cu mine, lumea românească și-a pierdut finețea, discreția, delicatețea, adică acele calități minuscule (feminine?) fără de care virtuțile monumentale ar fi stridente, aspre, inaccesibile. (Nu uit desigur că virtus, vine de la vir și că, poate, o traducere fidelă a virtus ar fi bărbăție). Smerenia, de pildă, e presupusă de toate celelalte virtuți și e și mediul fără de care ele nu ar supraviețui. Reflecția asta trimite și la o temă de societate: poți face, sau mai curând nu, politică creștinească? Vreau să spun: deplin creștinească, nu “cultural creștină”. Înclin să cred mai curând că nu și așa îmi explic suspiciunea cu care, mai recent sau nu, privesc orice manifestare de evlavie la politicieni. O bănuiesc de impostură. Politicianul meu ideal e, într-un fel, ipocritul, duplicitarul perfect: cel despre care să aflu, surprinsă, că are o viață interioară, că umblă la biserică și că o face exact din motivul potrivit - fiindcă se consideră păcătos.
+
+
+
+10 decembrie
+
+Trimis câte ceva din paginile astea către “Antimaterie”. Încă mă întreb de ce, cât va dura experimentul și ce ecouri va stârni. E prima ieșire în lume și, deși ocultarea mea deliberată nu e compromisă, mă simt expusă. Cred că ilustrez și eu stereotipul despre femeile incapabile de discreție. Știam “Antimaterie” și m-a atras, înainte de a citi, titlul steinhardtian al blogului. Care nu e, de bună seamă nici măcar după publicarea textelor mele, un blog creștin, dar care ilustrează, mi se pare, datoria creștinilor de a fi paradoxali, nesupuși, liberi, “deștepți”. “Antimaterie” e contra curentului și asta îi dă prospețime.
+
+
+
+11 decembrie
+
+Sunt desigur europeană. Totul mă face să fiu astfel: locul nașterii, educația efectivă și cea electivă, înclinațiile obscure și preferințele mărturisite. Deși am călătorit relativ mult, inclusiv peste mări și țări, mă simt acasă doar în colțul european de lume. Și totuși puține mă indispun precum expresia “proeuropean”. (“Proeuropean”, ca orice slogan, îmi cere să demonstrez evidența și, prin chiar asta, mă împiedică să o afirm. M-aș crispa identic și dacă cineva mi-ar cere să mă declar femeie la fiecare pas.) Încă mai puține mă irită ca prezumția că ortodoxia - românească în speță - e fie proeuropeană, fie inautentică. Frauda intelectuală și contrafactualul istoric se întemeiază, desigur, pe confuzia deliberată dintre Europa și UE. Cea din urmă este, în mod necesar, mai puțin decât Europa, din motive nenumărate. De exemplu, dacă ar fi altminteri, procesul de extindere a UE nu ar avea nicio noimă - că doar, excluzând cazul echivoc al Turciei, UE nu se poate extinde decât în Europa, dacă vrea să rămână loială programului fondator și propriului nume. Frauda mai e și efectul unei repolarizări: Europa precede UE, îi dă sens și, foarte probabil, îi va supraviețui, nu invers; mai mult, UE va putea rezista crizelor prin care trece doar făcând dovada loialității față de Europa, adică a fidelității față de valorile europene constitutive, toate de sursă creștină. Cât despre ortodoxia românească: ea nu poate fi doar occidentală, cum nimic românesc nu poate fi; este mai curând occidentală în Ardeal, dar are o altă stilistică, un al timbru în Bucovina, spre pildă, sau la sud de Carpați. E straniu că, în numele “proeuropeismului”, se neagă ortodoxiei românești o diversitate proclamată altminteri ca definitoriu “proeuropeană”.
