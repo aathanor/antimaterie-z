@@ -2,21 +2,19 @@
 {{ define "main" -}}
 <main class="main layout__main">
 <!-- TEST TEXT START -->
-<div>Testing template changes - both sections should appear below</div>
+<div>Testing template changes - posts should be sorted by date</div>
 <!-- TEST TEXT END -->
 
 {{ .Content }}
 
-<!-- Get pages from both sections and combine them -->
+<!-- Get pages from both sections, combine and sort by date -->
 {{ $fluxPages := where site.RegularPages "Section" "flux" }}
 {{ $distilatPages := where site.RegularPages "Section" "distilat" }}
 {{ $allPages := union $fluxPages $distilatPages }}
-{{ $paginator := .Paginate $allPages }}
+{{ $sortedPages := sort $allPages "Date" "desc" }}
+{{ $paginator := .Paginate $sortedPages }}
 
 {{ range $paginator.Pages }}
-  <!-- Debug info for each page -->
-  <div>Current section: {{ .Section }}</div>
-  
   {{ if eq .Section "flux" }}
     <div>FLUX POST:</div>
     {{ .Render "summary" }}
