@@ -1,9 +1,6 @@
 {{ define "title" }}{{ site.Title }}{{ end }}
 {{ define "main" -}}
 <main class="main layout__main">
-<!-- TEST TEXT START -->
-<div>Testing template changes - posts should be sorted by date</div>
-<!-- TEST TEXT END -->
 
 {{ .Content }}
 
@@ -16,10 +13,8 @@
 
 {{ range $paginator.Pages }}
   {{ if eq .Section "flux" }}
-    <div>FLUX POST:</div>
     {{ .Render "summary" }}
   {{ else if eq .Section "distilat" }}
-    <div>DISTILAT POST:</div>
     {{ .Render "summary" }}
   {{ end }}
 {{ end }}
