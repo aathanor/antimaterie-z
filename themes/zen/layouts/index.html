@@ -1,14 +1,24 @@
 {{ define "title" }}{{ site.Title }}{{ end }}
-
 {{ define "main" -}}
 <main class="main layout__main">
 {{ .Content }}
 
-{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections -}}
-{{ $paginator := .Paginate $pages -}}
-{{ range $paginator.Pages -}}
-{{ .Render "summary" }}
-{{ end -}}
+<!-- Get pages from both sections and combine them -->
+{{ $fluxPages := where site.RegularPages "Section" "flux" }}
+{{ $distilatPages := where site.RegularPages "Section" "distilat" }}
+{{ $allPages := union $fluxPages $distilatPages }}
+{{ $paginator := .Paginate $allPages }}
+
+{{ range $paginator.Pages }}
+  <!-- Use different styling based on section -->
+  {{ if eq .Section "flux" }}
+    {{ .Render "summary" }}
+  {{ else if eq .Section "distilat" }}
+    <div class="distilat-summary">
+      {{ .Render "summary" }}
+    </div>
+  {{ end }}
+{{ end }}
 
 {{ partial "pagination.html" . }}
 </main>
