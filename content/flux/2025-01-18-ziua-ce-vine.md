@@ -1,0 +1,30 @@
+---
+title: Ziua ce vine
+date: 2025-01-17
+author: Maica M.
+---
+14 ianuarie
+
+Revin la tema credinței. E mai întâi cea naturală, la care ajungi privind cu atenție cele ce se văd și gândind până la capăt cele ce se pot gândi. O spune Apostolul Pavel mai bine decât mine: “Pentru că ceea ce se poate cunoaşte despre Dumnezeu este cunoscut de către ei; fiindcă Dumnezeu le-a arătat lor; cele nevăzute ale Lui se văd de la facerea lumii, înţelegându-se din făpturi…”. Și e firesc să fie așa: deși e altceva decât Dumnezeu, creația nu-L poate ecrana până la capăt, nu ne poate absorbi deplin  privirea sau gândul, ca o gaură neagră a cărei gravitație absoarbe fără rest lumina. Credința revelată e altceva, de o altă fire. Credința naturală ridică omul de la ateism la monoteism, trecând prin toate formele de religiozitate consemnate istoric, inclusiv prin modernul agnosticism. În schimb, credința revelată trece dincolo, fiindcă se alimentează din felul în care, în Scripturi, Dumnezeu vorbește despre Sine. Nu exclud *de plano* revelația individuală, momentele - excepționale, prin chiar natura lor - în care Domnul se dezvăluie vreunuia dintre aleșii Săi. Totuși, aici mă interesează cum, la intersecția dintre veșnicie și cultură, Dumnezeu se lasă consemnat de mâinile omenești care redactează Scripturile. Despre importanța lor salutară mi se pare că vorbesc, între altele, următoarele: “Vă rătăciţi neştiind Scripturile…”. Nu evoc acum importanța lor de civilizație sau culturală, deși mi-e limpede că nu poți fi o persoană cu adevărat educată fără o bună cunoaștere a textelor fondatoare. E vorba de altceva, încă mai important: că în Scripturi, Dumnezeu își face autoportretul, Se dezvăluie - se revelează, poftim - așa cum este. Știu, “Îl vom vedea precum este”; pe de altă parte, în mărturisirea implacabilă a Scripturilor, L-am și văzut precum este (“Ce am văzut şi am auzit, vă vestim şi vouă…”).
+
+
+
+15 ianuarie
+
+Am fost întâi atee. Nu mă refer aici la ateismul biologiei pure, adică al copilăriei firești, în care, dacă ai norocul unei familii iubitoare, “problema lui Dumnezeu” nu se pune. Și chiar când se pune, în familiile evlavioase, termenii în care se tematizează nu sunt adesea departe de ateism sau de idolatria unui zeu domesticit, abuzat de marketingul sărbătorilor (“Să fim mai buni!”). La adolescență, dintr-un soi de frondă - în fond fără obiect -, am decis că sunt atee. Am realizat marginal, dar la fel de surprinsă, că în felul acesta mă trezisem aliniată ideologic regimului. În egală măsură îngrijorată și stingheră, Mama mi-a pus în mâini o Biblie: format mic, de-o palmă, durdulie, imprimată, vezi bine, pe *papier bible*, cu coperți purpurii dintr-un smerit material sintetic. Am în minte - reconstruită? - imaginea mea: trântită în pat, noaptea, citind din Biblia liliputană, ajunsă la noi prin efortul anonim și generos al vreunei biserici americane. Versiunea Cornilescu. Amintirea e totuși mai curând vagă. Ceea ce e limpede e sentimentul stranietății ireductibile pe care-l trăiam, impresia de *altceva*, de neîmblânzit: Dumnezeu intra în viața mea stihial cumva, cu dezlănțuirea imposibil de ignorat a elementelor: “Că iată Domnul va trece; şi înaintea Lui va fi vijelie năprasnică ce va despica munţii şi va sfărâma stâncile…”. Mult mai târziu voi înțelege, asemenea lui Ilie, că: “Domnul nu va fi în vijelie”, ci “în adierea de vânt lin” pe care, însă, atunci nu o deslușeam.
+
+
+
+16 ianuarie
+
+E important să nu pierdem niciodată simțământul stranietății Scripturilor, profilul lor aspru, nefamiliaritatea lor fără leac. E foarte greu, într-o civilizație care a absorbit creștinismul până la implicit și de la sine înțeles. Creștinismul a devenit context, element de fundal, *cultură*. Cum să regăsești prospețimea minunată a începuturilor, noutatea care a născut, cum se și cuvenea, atâta stupoare și adversitate? În mod paradoxal, originalul, genuinul trebuie azi reconstruite, cu efort, fiindcă nu ni se mai dau spontan, cum am avea dreptul (?) să ne așteptăm. Din acest motiv, frivol la prima vedere, prefer Biblia de la 1914: pentru asperitatea ei rugoasă, pentru frumusețea ei ocultă, fiindcă drapată într-un limbaj nesupus. Surpriza incomparabilă a intrării lui Dumnezeu - în Persoană - în lume nu poate fi exprimată decât prin stridența unei simplități complet dezbrăcate de trucuri retorice. Așa cum debutează Matei - Evanghelia prototip - prin lista lungă de nume imposibile: Fares, Zara, Taram, Esrom, Aram, Aminadav, Naason, Salmon, Booz, Iobed, Rut, Iesei…Până la dulcele Iisus, trecem prin acest bolovăniș fonetic, prin desișul cu spini al unor, s-ar spune, onomatopee. Așa intră Dumnezeu în lume: prin 42 de bărbați și femei cu nume și vieți aspre, adesea imperfecte, într-un crescendo improbabil până la blândul Iosif și Maica Preacurată.
+
+
+
+
+
+17 ianuarie
+
+E și o chestiune de traducere. Din scrupul teologic, David Bentley Hart a încercat-o în traducerea lui la Noul Testament. Sugestia pleacă chiar de la copertă: două cuie ruginite încrucișate în formă de cruce. Trimitere, desigur, la brutalitatea fără egal a răstignirii, dar și avertizare că creștinismul nu e o formă de reverie sau de autohipnoză. Coperta e coerentă cu traducerea: programatic, Bentley Hart supune engleza la caznele unui idiom original lipsit de sofisticare, direct, brutal uneori. E un pariu imposibil: acela de a sări peste întreaga cultură - rafinament și sofisticare - care desparte această ediție noutestamentară de textul canonic și de circumstanțele care i-au dat naștere. Fiecare parabolă, fiecare frază, la limită fiecare cuvânt evanghelic ne ajung încărcate de întreaga istorie culturală și chiar interpretativă pe care au generat-o și de care Bentley Hart crede că le poate dezbrăca. Aș spune că are dreptate: e esențial ca această crudă stranietate a Revelației să se întrevadă prin traducere. Fie și din motivul că: “Niciodată n-a vorbit un om aşa cum vorbeşte Acest Om.” 
+
+Așa a intrat credința revelată în viața mea, pe care a făcut-o țăndări. Cum se și cuvenea.
