@@ -1,0 +1,8 @@
+---
+title: Requiem for the European Dream
+date: 2025-03-02
+author: Florin Cojocariu
+---
+E un text scurt, cu puține de spus.  Primul e că Zelenski, printr-o imposibilă întorsătură istorică, a devenit agentul distrugerii NATO. Dacă vă amintiți, obsesia  europeană a fost de la început că Putin e cel care încearcă să divizeze alianța. E ca la Radio Erevan, el a întărit-o, în timp ce Zelenski o distruge. Ceea ce a făcut Zelenski la Casa Albă catalizează de fapt extragerea Americii din Europa: refuzul planului american e echivalent cu abandonarea Ucrainei de către americani. Asta va forța Europa să preia rolul de apărător al Ucrainei. Dacă vor intra cu trupe în Ucraina, rușii îi vor căsăpi și un război UE-Rusia va începe. Europenii vor invoca art. 5. În termenii tratatului el nu e obligatoriu și americanii vor refuza. E foarte posibil ca și alte țări să refuze ceva ce nu are nici o logică, adică un război cu o superputere pentru Ucraina. Contrar a ce crede lumea, e foarte probabil ca polonezii să refuze conflictul și să prefere o negociere directă cu Rusia, tocmai pentru că au ceva putere militară. Deci NATO nu va folosi la nimic.
+
+Al doilea lucru de spus e că suntem într-o fază accelerată de autodistrugere a UE. Toată povestea cu disoluția NATO va veni cu consecințe serioase pentru unitatea politică a UE și nici un "mare" lider european nu pare a vedea evidența asta. Dar, cel mai important e actul de acum, cu aplauzele pentru Zelenski la întâlnirea de la Londra la care UE va arăta SUA cum se face treaba. Întâlnirea asta e o dovadă de netăgăduit a faptuluii că liderii UE trăiesc pe altă planetă.
