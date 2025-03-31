@@ -1,0 +1,20 @@
+---
+title: Agenția Europeană pentru Combaterea Democrației
+date: 2025-03-31
+author: TRU
+---
+Zidul Berlinului s-a ridicat din nou și trece, acum, prin casa fiecărui alegător. Europa e din nou împărțită între cei ce vor să trăiască după regulile de bază ale democrației și cei ce vor să facă din democrație un sistem cu cîștigător unic.
+În Franța, riscul unei confruntări democratice la prezidențialele din 2027 a fost înlăturat, cu obișnuita decizie semnată de brațul juridic al aristocrației. Parodia solemnă a Justiției, complet independentă de bun simț, onoare și adevăr, a fost chemată la ordin și s-a executat. Prețul cerut alegătorilor e acea naivitate vecină cu imbecilitatea care impune cetățenilor să nu observe coincidența după care orice posibilă victorie a partidelor din afara sistemului e urmată de interdicția în numele legii și democrației.
+La 9 ani după un delict fantomatic dar tocmai la timp pentru a scoate elimina pericolul, Marine Le Pen a fost condamnată și suprimată. Ghilotina - neuitata invenție progresistă franceză – a fost mutată din piață în sala de tribunal.
+Sigur, capodopera în materie a venit, încă de anul trecut, din România unde alegerile prezidențiale au fost anulate. E mai ușor de înțeles, acum, că vizitele Ambasadorului Franței la CCR și CNA au prilejuit un excelent schimb de experiență între comando-uri anti-democrație. Varianta haiducească din România a fost perfecționată de nesfîrșita ipocrizie franțuzească.  
+În Germania ascensiunea AfD a fost blocată de o coaliție acrobatică. Noul guvern e expresia programului ”fără AfD” și refuză, în acest fel, să reprezinte alegătorii pe care i-a chemat la alegeri.
+Austria a reușit mai mult. Sub pretextul salvgardării democrației, cetățenii superiori au forțat un guvern care nu include partidul cîștigător al alegerilor, votat de cetățenii inferiori.
+De fapt, e brutal de simplu. Ce se joacă acum e pregătirea pentru alegerile americane din 2028. Alegerile americane de peste trei ani sînt, deja, cruciale. Mersul Statelor Unite, al Rusiei, al Ucrainei și al UE depind, într-un fel sau altul, de rezultatul alegerilor de peste trei ani. Prelungirea trumpismului sau înfrîngerea lui sînt necunoscuta care conduce lumea, pînă în clipa dezlegării.
+În acest moment, rușii au toate cărțile militare în mînă și nici o garanție că o înțelegere cu Statele Unite va rezista, după 2028, cu un Președinte Democrat la Casa Albă.  
+Și UE așteaptă rezultatul din 2028, cu speranța că epoca Trump va fi înlocuită de revenirea la consensul liberal și la regimul de subvenții militar-comerciale american. Însă, liderii vest-europeni n-au uitat că, în următorii 3 ani, vor trece, și ei, prin alegeri, unele prevăzute, altele neprevăzute. Terenul trebuie pregătit din timp.Liderii vest-europeni nu își pot permite să fie surprinși cu efectivul descompletat și cu societăți care votează după capul lor.  
+Consecințele acestei așteptări încordate au început să lucreze și sînt extraordinare. Pînă la o presupusă și dorită stingere a trumpismului în 2028, aristocrația europeană trebuie să facă din Europa un spațiu sigur pentru hegemonia liberală. Europa trebuie ”ferită” de contaminare trumpistă. Asta înseamnă că Europa trebuie pacificată și transformată, politic și mental, într-o zonă sigură, post-democratică, în care alegerile pot avea loc doar dacă nu au loc. Cu alte cuvinte, o democrație care nu organizează decît alegerile pe care aristocrația și le poate permite. Practic, liderii și partidele estabishmentului și-au interzis să piardă și refuză să înregistreze candidatura sau rezultatele partidelor din afara sistemului. Desăvîrșirea acestei sere perfect etanșe presupune manipulare, cenzură și manevre juridice unificate.
+Între timp, cealaltă coloană de asalt se ocupă de formatarea psihică a societăților. Motorul e o epidemie de spaimă pe tema ”Rusia ne va invada”, cu refrenul secundar ”Trump ne va nazifica”.
+Urmeaza ani grei.
+Disperarea aristocrației europene a atins acea orbire activă care are darul de a desena, cu mînă sigură, viitoarea ei prăbușire.  
+Pînă atunci, Agenția Europeană pentru Combaterea Democrației avansează.
+ 
