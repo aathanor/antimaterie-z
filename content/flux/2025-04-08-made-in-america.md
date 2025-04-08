@@ -40,11 +40,11 @@ După 30 de ani de gnoză economică globală, efectul e, și în Vest și în E
 
 Una din cele mai bune descrieri ale stării de fapt americane și a situației la care reacționează Trump e de găsit, în declarațiile purtătoarei de cuvînt a Casei Albe, Caroline Leavitt. Fără jargon tehnic:
  
-      ”Our country has been one of the most open economies in the world… But too many foreign countries have their markets closed to our exports. This is fundamentally unfair. The lack of reciprocity contributes to our large and persistent annual trade deficit that’s gutted our industries and hollowed out key workforces. But those days of America… being ripped off are over.”
+> ”Our country has been one of the most open economies in the world… But too many foreign countries have their markets closed to our exports. This is fundamentally unfair. The lack of reciprocity contributes to our large and persistent annual trade deficit that’s gutted our industries and hollowed out key workforces. But those days of America… being ripped off are over.”
 
 Pentru mai multe detalii istorice, pot fi citite declarațiile Șefului Consiliului Economic al Casei Albe, Kevin Hassett:
 
-      ”The bottom line is that China entered the WTO in 2000. In the 15 years that followed, real incomes declined about $ 1,200 cumulatively over that time. So, we got the cheap goods at the grocery store, but then we had fewer jobs. He (Trump) is not trying to tank the market. He's trying to deliver for American workers.”
+> ”The bottom line is that China entered the WTO in 2000. In the 15 years that followed, real incomes declined about $ 1,200 cumulatively over that time. So, we got the cheap goods at the grocery store, but then we had fewer jobs. He (Trump) is not trying to tank the market. He's trying to deliver for American workers.”
 
 Asta vrea să redreseze Donald Trump și de aici criza galactică de isterie împotriva tarifelor americane.
 
