@@ -3,17 +3,17 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "test_RSS_ on Antimaterie",
     "description": "Recent content in test_RSS_ on Antimaterie",
-    "home_page_url": "//192.168.100.77:1313/",
-    "feed_url": "//192.168.100.77:1313/test_rss/index.json",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/test_rss/index.json",
     "language": "ro-RO",
-    "favicon": "//192.168.100.77:1313/static",
+    "favicon": "http://localhost:1313/static",
     "items": [
         {
             "title": "RSS - Despre stilul textelor pe care le scriem",
             "date_published": "2024-09-11T00:00:00Z",
             "date_modified": "2024-09-11T00:00:00Z",
-            "id": "//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/",
-            "url": "//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/",
+            "id": "http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/",
+            "url": "http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/",
             "authors": [
                 {
                   "name": "Florin Cojocariu"

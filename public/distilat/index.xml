@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distilat on Antimaterie</title>
-    <link>//192.168.100.77:1313/distilat/</link>
+    <link>http://localhost:1313/distilat/</link>
     <description>Recent content in Distilat on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
-    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//192.168.100.77:1313/distilat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/distilat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E mai târziu decît credem</title>
+      <link>http://localhost:1313/distilat/2025-01-05-e-mai-t%C3%A2rziu-dec%C3%AEt-credem/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/distilat/2025-01-05-e-mai-t%C3%A2rziu-dec%C3%AEt-credem/</guid>
+      <description>Propunerile radicale cu care Elon Musk și Vivek Ramaswami - cei doi Super Guru multi-tehno-Leonardești ai Americii - vor să oprească declinul sînt fantastice și suferă de un pragmatism naiv. Musk și Ramaswami cer, pur și simplu, un transplant de creier. Temeritatea science-fiction a remediului nu face decît să sugereze că America e, într-adevăr, la granița cu propria anulare. Și, cum se știe, granițele nu mai sînt punctul tare al Americii.</description>
+    </item>
     <item>
       <title>Călăul despre funia reglementărilor</title>
-      <link>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</link>
+      <link>http://localhost:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</guid>
+      <guid>http://localhost:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</guid>
       <description>Raportul Draghi care deplânge scăderea competitivității europene e suspect prin însuși autorul lui. Ca guvernator al Băncii Central Europene între 2011 și 2019 s-a remarcat prin politici dure de susținere a euro și de reducere a suveranității statelor membre; cu alte cuvinte el e un centralist care dorește mai multă putere la Bruxelles și mai puțină în capitalele europene, fiind prin asta unul din artizanii sărăcirii economiilor din sudul Europei. Situația competitivității scăzute de acum e în mare parte produsul politicilor centraliste ale UE din perioada în care el era Guvernator și avea un cuvânt foarte greu de spus.</description>
     </item>
   </channel>

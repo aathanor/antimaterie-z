@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test_RSS_ on Antimaterie</title>
-    <link>//192.168.100.77:1313/test_rss/</link>
+    <link>http://localhost:1313/test_rss/</link>
     <description>Recent content in test_RSS_ on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
     <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//192.168.100.77:1313/test_rss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/test_rss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RSS - Despre stilul textelor pe care le scriem</title>
-      <link>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</link>
+      <link>http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</guid>
+      <guid>http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</guid>
       <description>Schemele noastre de limbaj (pe care le folosim inconștient) sunt dobândite prin expunerea repetată la schemele altora. În felul ăsta, pe parcursul anilor, stilurile încep să semene; nu e în sine un lucru rău, vocabularul se lărgește, paleta de scheme aplicate se îmbunătățește. ChatGPT poate face asta în câteva microsecunde, plecând de la o definiție a unui model de stil, dar folosește același principiu, caută scheme de limbaj pe care să le replice.</description>
     </item>
   </channel>

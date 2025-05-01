@@ -3,41 +3,41 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Authors on Antimaterie",
     "description": "Recent content in Authors on Antimaterie",
-    "home_page_url": "//192.168.100.77:1313/",
-    "feed_url": "//192.168.100.77:1313/authors/index.json",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/authors/index.json",
     "language": "ro-RO",
-    "favicon": "//192.168.100.77:1313/static",
+    "favicon": "http://localhost:1313/static",
     "items": [
         {
             "title": "Bogdan Iacob",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/",
-            "url": "//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/",
+            "id": "http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/",
+            "url": "http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/",
             "content_html": "\u003cp\u003eBogdan Iacob\u003c/p\u003e\n"
         },
         {
             "title": "Florin Cojocariu",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/",
-            "url": "//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/",
+            "id": "http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/",
+            "url": "http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/",
             "content_html": "\u003cp\u003eFlorin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.\u003c/p\u003e\n"
         },
         {
             "title": "Maica M.",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "//192.168.100.77:1313/authors/maica-m/",
-            "url": "//192.168.100.77:1313/authors/maica-m/",
-            "content_html": "\u003cp\u003eMaica M. e mai timidă. La drept vorbind n-avem nici o idee când s-ar hotărî să scrie.\u003c/p\u003e\n"
+            "id": "http://localhost:1313/authors/maica-m/",
+            "url": "http://localhost:1313/authors/maica-m/",
+            "content_html": "\u003cp\u003eMaica M e exact asta, chiar dacă nu într-o mănăstire propriu-zisă.Inadaptabilă, a decis că tradiția celor numiți   \u0026ldquo;κοσμοκάλογεροι\u0026rdquo;, călugări în lume, nu e caducă.  Pe \u0026ldquo;Antimaterie\u0026rdquo; va publica \u0026ldquo;Ziua ce vine\u0026rdquo;, adică pagini de jurnal.\u003c/p\u003e\n"
         },
         {
             "title": "TRU",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/",
-            "url": "//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/",
+            "id": "http://localhost:1313/authors/map-name-tru-description-bio-tru/",
+            "url": "http://localhost:1313/authors/map-name-tru-description-bio-tru/",
             "content_html": "\u003cp\u003ePentru cine-l știe, nu-i nevoie de biografie. Nici pentru cine nu-l știe.\u003c/p\u003e\n"
         }
         ]

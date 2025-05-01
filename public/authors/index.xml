@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Antimaterie</title>
-    <link>//192.168.100.77:1313/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
-    <atom:link href="//192.168.100.77:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bogdan Iacob</title>
-      <link>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</link>
+      <link>http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</guid>
+      <guid>http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</guid>
       <description>Bogdan Iacob</description>
     </item>
     <item>
       <title>Florin Cojocariu</title>
-      <link>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</link>
+      <link>http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</guid>
+      <guid>http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/</guid>
       <description>Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.</description>
     </item>
     <item>
       <title>Maica M.</title>
-      <link>//192.168.100.77:1313/authors/maica-m/</link>
+      <link>http://localhost:1313/authors/maica-m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/maica-m/</guid>
-      <description>Maica M. e mai timidă. La drept vorbind n-avem nici o idee când s-ar hotărî să scrie.</description>
+      <guid>http://localhost:1313/authors/maica-m/</guid>
+      <description>Maica M e exact asta, chiar dacă nu într-o mănăstire propriu-zisă.Inadaptabilă, a decis că tradiția celor numiți &amp;ldquo;κοσμοκάλογεροι&amp;rdquo;, călugări în lume, nu e caducă. Pe &amp;ldquo;Antimaterie&amp;rdquo; va publica &amp;ldquo;Ziua ce vine&amp;rdquo;, adică pagini de jurnal.</description>
     </item>
     <item>
       <title>TRU</title>
-      <link>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</link>
+      <link>http://localhost:1313/authors/map-name-tru-description-bio-tru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</guid>
+      <guid>http://localhost:1313/authors/map-name-tru-description-bio-tru/</guid>
       <description>Pentru cine-l știe, nu-i nevoie de biografie. Nici pentru cine nu-l știe.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TESTs on Antimaterie</title>
-    <link>//192.168.100.77:1313/test/</link>
+    <link>http://localhost:1313/test/</link>
     <description>Recent content in TESTs on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
-    <atom:link href="//192.168.100.77:1313/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Florin Cojocariu</title>
-      <link>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</link>
+      <link>http://localhost:1313/test/map-name-florin-cojocariu-description-bio-florin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</guid>
+      <guid>http://localhost:1313/test/map-name-florin-cojocariu-description-bio-florin/</guid>
       <description>Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.</description>
     </item>
   </channel>

@@ -2,220 +2,290 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antimaterie</title>
-    <link>//192.168.100.77:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Antimaterie</description>
     <generator>Hugo</generator>
     <language>ro-RO</language>
-    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//192.168.100.77:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E mai târziu decît credem</title>
+      <link>http://localhost:1313/distilat/2025-01-05-e-mai-t%C3%A2rziu-dec%C3%AEt-credem/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/distilat/2025-01-05-e-mai-t%C3%A2rziu-dec%C3%AEt-credem/</guid>
+      <description>Propunerile radicale cu care Elon Musk și Vivek Ramaswami - cei doi Super Guru multi-tehno-Leonardești ai Americii - vor să oprească declinul sînt fantastice și suferă de un pragmatism naiv. Musk și Ramaswami cer, pur și simplu, un transplant de creier. Temeritatea science-fiction a remediului nu face decît să sugereze că America e, într-adevăr, la granița cu propria anulare. Și, cum se știe, granițele nu mai sînt punctul tare al Americii.</description>
+    </item>
+    <item>
+      <title>Nu vă fie frică, democrația pică!</title>
+      <link>http://localhost:1313/flux/2025-01-05-nu-v%C4%83-fie-fric%C4%83-democra%C8%9Bia-pic%C4%83/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2025-01-05-nu-v%C4%83-fie-fric%C4%83-democra%C8%9Bia-pic%C4%83/</guid>
+      <description>2024 a fost un an bun. Poate cel mai bun după 1989. La fel ca 1989, 2024 a adus, tot către sfîrșit, o clarificare. Dacă în 1989 am aflat că democrația e bună, în 2024 am aflat că democrația nu e bună. Verdictul e clar și întemeiat pentru că vine de la cei ce știu. De la lumea bună, civică și educată, cel mai influent grup în societatea românească. Asta ar fi de ajuns pentru a închide discuția.</description>
+    </item>
+    <item>
+      <title>Ziua ce vine</title>
+      <link>http://localhost:1313/flux/2025-01-03-ziua-ce-vine/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2025-01-03-ziua-ce-vine/</guid>
+      <description>29 decembrie&#xA;După mine, conservatorismul presupune o anumită relație cu timpul, nu doar cu tradiția. Sigur, o înclinație conservatoare dă o preferință indiscutabilă soluțiilor probate prin timp, plecând de la premiza că doar lucrurile testate cu succes au supraviețuit eroziunii naturale a vremii. Civilizația, în fond, se compune din miliarde de gesturi, unele elaborate, altele simple, pe care decidem să nu le improvizăm spontan, ci să le repetăm așa cum le-am învățat (sau cum “le-am pomenit”).</description>
+    </item>
+    <item>
+      <title>&#34;Anul Nou care n-a fost&#34; - o cronică pozitivă</title>
+      <link>http://localhost:1313/flux/2024-12-29-anul-nou-care-n-a-fost-o-cronic%C4%83-pozitiv%C4%83/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-29-anul-nou-care-n-a-fost-o-cronic%C4%83-pozitiv%C4%83/</guid>
+      <description>Am auzit surprinzător de multă lume dezamăgită de &amp;ldquo;Anul Nou care n-a fost&amp;rdquo;, așa că l-am văzut cu așteptări minime. A fost o surpriză: am râs de multe ori și de multe ori mi s-a pus un nod în gât. La final mi-a venit să plâng, deși știam bine că nu așa au stat lucrurile. Singura mea obiecție e legată de personajul fals al actriței &amp;ldquo;dizidente&amp;rdquo;, aici pot fi de acord cu critica.</description>
+    </item>
+    <item>
+      <title>Ziua ce vine</title>
+      <link>http://localhost:1313/flux/2024-12-28-ziua-ce-vine/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-28-ziua-ce-vine/</guid>
+      <description>23 decembrie&#xA;Îmi plac lucrurile vechi. Nu neapărat cele scumpe, rarefiate de trecerea timpului, înnobilate de numărul limitat și de penuria naturală care însoțește și dă valoare vestigiilor. Îmi plac și lucrurile comune care au supraviețuit caducității, ieșirii din uz. Sunt mai multe motive. Obiectele cele mai recente de utilizare comună sunt mult mai standardizate decât cele, infinit mai variate, dintr-o generație tehnologică precedentă. Azi totul seamănă. Ca orice femeie, m-am suspectat că nu pot face diferența între diferitele modele de automobil dintr-un motiv pe care mi-l pot reproșa doar mie.</description>
+    </item>
+    <item>
+      <title>Ziua ce vine</title>
+      <link>http://localhost:1313/flux/2024-12-21-jurnal/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-21-jurnal/</guid>
+      <description>14 decembrie&#xA;Am descoperit Grok. Nu-i dau multe de lucru, din prudența superstițioasă că le-ar și putea face. Și, desigur, din nesiguranța referitoare la ce ar fi cu adevărat în stare. Știam de existența lui (ei?) de o vreme, din motivul care mă îndeamnă să urmăresc cu atenție mai tot ce face Elon M: un scrupul religios. În sens propriu, îl urmăresc pe Elon cu religiozitate, fiindcă, la drept vorbind, îl investesc cu daruri profetice, cu o vocație pe care, sunt aproape sigură, el însuși o ignoră.</description>
+    </item>
+    <item>
+      <title>    Georgia Georgescu – Miss Univers Democratic</title>
+      <link>http://localhost:1313/flux/2024-12-20-georgia-georgescu--miss-univers-democratic/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-20-georgia-georgescu--miss-univers-democratic/</guid>
+      <description>E extrem de simplu și asta complică lucrurile. Interesele americane (regimul Biden) au dictat anularea alegerilor prezidențiale în România. Complicația apare în clipa în care trebuie să legăm cauzal cei doi termeni. Jurăm că știm ce e America (o hiper-democrație) dar asta ne face să nu (vrem să) înțelegem că România și-a schimbat definiția. România nu mai e un stat ci un abis strategic: principalul coridor de acces la frontul ucrainian.</description>
+    </item>
+    <item>
+      <title> Nu aveți de ales!</title>
+      <link>http://localhost:1313/flux/2024-12-14-nu-ave%C8%9Bi-de-ales/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-14-nu-ave%C8%9Bi-de-ales/</guid>
+      <description>Democrații anti-democrați ai anului 2024 au făcut exact ce au făcut comuniștii în 1947. Desigur, pastișa lor a fost lucrată cu instrumente aduse la zi. Sub comunism, ca sub comunism: glonțul și pușcăria. În democrația anti-democrată, altfel dar la fel: cenzura, claritatea morală și justiția stautului de drept penal. Rezultatul e același: preluarea ostilă a statului și suspendarea unui regim imperfect dar liber. De unde se poate înțelege că, întorcîndu-ne la un 1947 camuflat/modernizat, nu am întinerit cu 77 de ani ci am îmbătrînit degeaba.</description>
+    </item>
+    <item>
+      <title>Jurnal 8-11 decembrie</title>
+      <link>http://localhost:1313/flux/2024-12-13-jurnal-8-11-decembrie/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-13-jurnal-8-11-decembrie/</guid>
+      <description>8 decembrie&#xA;Duminică liniștită. Seara, tulburată totuși de un concert în biserica la care merg. Solidară, am decis să particip, în public, alături de enoriași. Lume mai multă decât de obicei, de unde înțeleg că un concert de sezon e mai atractiv decât o liturghie “for all seasons”. Morala concertului, de la care am plecat înainte să se încheie, după un lung exercițiu de răbdare, e că încă mă crispează amestecul sacru-secular, și concertele, chiar “pioase”, în biserici.</description>
+    </item>
+    <item>
+      <title>Jurnal 28 noiembrie - 6 decembrie</title>
+      <link>http://localhost:1313/flux/2024-12-11-jurnal-28-noiembrie-6-decembrie/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flux/2024-12-11-jurnal-28-noiembrie-6-decembrie/</guid>
+      <description>28 noiembrie&#xA;Urmăresc vag, cu un singur ochi, actualitatea politică. Nu din ascetism, ci, într-un fel, dimpotrivă. Nu fiindcă am fugit de lume, ci în ciuda faptului că nu am ieșit suficient din lume. Nu pentru că m-ar smeri gândul că sunt nevrednică să judec lumea, ci fiindcă spectacolul lumii mă cam plictisește, cu deosebire scena politică. Și totuși, agitația și istericalele politicii românești, începând chiar cu ultima perioadă a campaniei electorale, au ajuns până în cotlonul retragerii mele.</description>
+    </item>
     <item>
       <title>Mereu la putere</title>
-      <link>//192.168.100.77:1313/flux/2024-12-07-mereu-la-putere/</link>
+      <link>http://localhost:1313/flux/2024-12-07-mereu-la-putere/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-12-07-mereu-la-putere/</guid>
+      <guid>http://localhost:1313/flux/2024-12-07-mereu-la-putere/</guid>
       <description>În România a avut loc o schimbare de regim. O lovitură de stat pașnică și devastatoare. Democrația a fost înlocuită cu o imitație în care au loc alegeri dar alegătorii nu decid. Noua Constituție nescrisă a țării spune că alegerile pot fi cîștigate numai de alesul sistemului. Dacă alegătorii îl votează, cu atît mai bine. Dacă nu, alegerile se anulează și se reiau, pînă la victoria candidatului selectat de sistem din sistem.</description>
     </item>
     <item>
       <title>Motivele profunde ale nebuniei și ce urmează</title>
-      <link>//192.168.100.77:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</link>
+      <link>http://localhost:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</guid>
+      <guid>http://localhost:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</guid>
       <description>Răul e făcut, a înjura pe cei care au executat porcăria e fără rost. E mult mai important să încercăm să întrezărim ce urmează. Dar nu putem întrezări nimic dacă nu pricepem cum am ajuns aici nu în termeni cauzali temporali - istoria e destul de clară pentru toți - ci în termeni psihologici. Ar trebui să ne mire că am reușit în câteva săptămâni să împărțim națiunea în două tabere profund ireconciliabile, gata să se încaiere în public.</description>
     </item>
     <item>
       <title>Noi sîntem poporul – voi sînteți decorul!</title>
-      <link>//192.168.100.77:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</link>
+      <link>http://localhost:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</guid>
+      <guid>http://localhost:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</guid>
       <description>Elita noastră patrioată și vitează a lăsat în urmă un material enorm. De se vor naște zeci de Caragiale și nu vor fi de-ajuns! Comedia e prea multă și prea groasă. Povestea democrației noastre mîntuite de vrăjmași nu are seamăn. Ea își declară publicul tîmpit și face din proprii ei regizori și actori o ceată de măscărici stîngaci.&#xA;Voinicii camuflați ai Serviciilor secrete au pus pe masă dovezile trădării. Asta e cu atît mai brav cu cît, de ani de zile, voinicii amintiți aveau la mînă tot complotul dar au decis să nu îl pomenească decît în preajma alegerilor prezidențiale, turul doi (fostul tur trei anulat de CCR).</description>
     </item>
     <item>
       <title>Democrația, Comedia, România</title>
-      <link>//192.168.100.77:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</link>
+      <link>http://localhost:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</guid>
+      <guid>http://localhost:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</guid>
       <description>Alții au arme nucleare, petrol sau bănci. Noi avem comedia. E infinit mai mult. E cea mai rapidă și nesîngeroasă armă distrugătoare de regim, morală, epocă și civilizație. Mai veche decît folclorul și mai răspîndită decît aerul, comedia românească e tot și poate face nimic din tot: libertate, stat, instituții, lideri, popor, cuvînt și părinți.&#xA;Indiferent ce decizii au lat și vor mai lua Curtea Constituțională și Consiliul Suprem de Apărare a Țării, alegerile din 2024 au avut loc degeaba.</description>
     </item>
     <item>
       <title> Vivat Democrația!</title>
-      <link>//192.168.100.77:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</link>
+      <link>http://localhost:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</guid>
+      <guid>http://localhost:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</guid>
       <description>România va bisa spectacolul ipocrit pus în scenă de aristocrația luminată după fiecare eșec al aristocrației luminate. România politică și mediatică, România etajului titrat și moralist va relua celebra melodramă șantajistă ”să ne unim în apărarea democrației!”. Somați să își demonstreze buna-credință, destui se vor grăbi să răspundă fără să-și pună întrebările de bază: oare cine ne cheamă la luptă? piromanii deghizați în pompieri? salvamarii care au deschis pompa de apă peste prostimea închisă în pivniță?</description>
     </item>
     <item>
       <title>The Good, The Bad and The Ugly</title>
-      <link>//192.168.100.77:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</link>
+      <link>http://localhost:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</guid>
+      <guid>http://localhost:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</guid>
       <description>Nici eu nu știu cine e Călin Georgescu și nici ce vrea; ce am auzit nu sună bine. Paradoxal însă, el e cel mai important - prin mesajul pe care-l poartă, dar și cel mai puțin important - șansele să câștige alegerile sunt nule. Alegeri care seamănă destul de bine cu cele din 2000, când l-au băgat pe Vadim în turul 2 și dreapta s-a sinucis ritual. Azi Ciucă e un Emil Constantinescu fără glorie care și-a îngropat partidul, fără însă să aibă luciditatea de a observa că l-a învins sistemul.</description>
     </item>
     <item>
       <title>Cum arată alegerile americane defectul mortal al construcției europene</title>
-      <link>//192.168.100.77:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</link>
+      <link>http://localhost:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</guid>
+      <guid>http://localhost:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</guid>
       <description>Victoria lui Trump nu e numai victorie, înviere din morți, &amp;ldquo;greatest political comeback of all times&amp;rdquo;, ci și dovada finală că sistemul politic american e capabil să genereze anticorpi și să se redreseze de fiecare dată când e în pericol mortal. Probabil că nimic în istoria americană nu a fost (și încă e) mai periculos decât atacul elitelor oligarhice care-și spun &amp;ldquo;democrate&amp;rdquo;. Blocul militaro-ideologico-informațional care și-a propus o schimbare cu forța a Americii printr-un soi de re-educare intensivă a populației urbane și a tinerilor, folosind ca instrument amalgamul de utopii numit &amp;ldquo;progresism&amp;rdquo; sau &amp;ldquo;woke&amp;rdquo; și exportând cinic război și instabilitate în restul lumii, a avut absolut toată puterea: politică, birocratică, informațională, judiciară.</description>
     </item>
     <item>
       <title>Democrația trebuie concediată </title>
-      <link>//192.168.100.77:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</link>
+      <link>http://localhost:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</guid>
+      <guid>http://localhost:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</guid>
       <description>După victoria categorică a lui Donald Trump, realitatea e într-o ușoară revenire de formă. Asta, deși teoria oficială a regimului conducător a decis demult că realitatea e inexistentă. Drept urmare, de aproape 30 de ani, America și Europa de Vest și-au umplut timpul cu o cascadă de concedieri, sub pretextul marșului avîntat spre progres.&#xA;Izbînzile sînt uluitoare. Astfel: concedierea fostei clase industriale productive și înlocuirea ei cu sloganul ”lanțului economic global”, concedierea memoriei și a trecutului și înlocuirea lor cu noua conștiință eliberată de superstiții istorice, concedierea familiei și înlocuirea ei cu balul deviației multi-sexuale, concedierea națiunii și înlocuirea ei cu migrația liberă, sub pretextul reparației demografice (pentru cine nu poate face diferența între inundații și irigații).</description>
     </item>
     <item>
       <title>Anti-neant!</title>
-      <link>//192.168.100.77:1313/flux/2024-11-05-anti-neant/</link>
+      <link>http://localhost:1313/flux/2024-11-05-anti-neant/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-05-anti-neant/</guid>
+      <guid>http://localhost:1313/flux/2024-11-05-anti-neant/</guid>
       <description>Votați anti-neant!&#xA;De ce? Pentru că! Această structură de gîndire e depășită. Alegerile din America au ieșit din strînsoarea săracă a logicii și cer salvarea tuturor lucrurilor: a lumii. Rezultatul lor nu va mai trimite la una sau alta din variantele admisibile ale politicii și ideologiei, la dreapta sau la stînga, la piață sau la dirijism, la partidul meu sau la partidul tău, la candidatul tău sau la candidatul meu. Rezultatul lor nu va prescrie un nou regim ci un destin.</description>
     </item>
     <item>
       <title>În apărarea lui Dan Alexe</title>
-      <link>//192.168.100.77:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</link>
+      <link>http://localhost:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</guid>
+      <guid>http://localhost:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</guid>
       <description>Așa zisul &amp;ldquo;scandal&amp;rdquo; al lingviștilor e o poveste șubredă.&#xA;Istodor se joacă cu orgoliile oamenilor așa cum cânta Zamfir la nai, de când îl cunosc eu, adică din anii 90. Am toată admirația pentru tehnica lui dar și pentru el (un om de o umilitate naturală, ceva rar); nu el e în discuție, dar faptul că problema e artificial construită ca să servească scopurilor unora mai puțini vizibili (cum ar fi editurile), ar trebui să nu fie uitat.</description>
     </item>
     <item>
       <title> La vot! Din datorie și bun simț</title>
-      <link>//192.168.100.77:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</link>
+      <link>http://localhost:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</guid>
+      <guid>http://localhost:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</guid>
       <description>Te cheamă Vasile. Într-o dimineață, te trezești simțind din toți porii că trebuie să devii soția macaralei de peste drum. Din fericire, trăiești într-un regim progresist. Lumea civică și oficială va celebra și va fi incredibil de mîndră de tine. Numai o dictatură te poate declara nebun.&#xA;În dimineața în care ți-ai găsit noua dragoste metalică, dai peste încă o bucurie. În blocul tău s-a instalat o puzderie agitată care care vorbește limbi necunoscute.</description>
     </item>
     <item>
       <title>Un eșec previzibil și o oportunitate ascunsă</title>
-      <link>//192.168.100.77:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</link>
+      <link>http://localhost:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</guid>
+      <guid>http://localhost:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</guid>
       <description>Moldova e împinsă treptat spre dezbinare și ură. Așa zisa tabără pro-UE (care e de fapt pro-americană), prin vocea lui Sandu, produce acest comunicat care pare redactat de Ceaușescu în decembrie 89:&#xA;„Moldova s-a confruntat azi și în ultimele luni cu un atac fără precedent asupra democrației. Grupări criminale au atacat țara noastră cu zeci de milioane de euro, minciuni și propagandă pentru a ne duce într-o zonă de incertitudine și instabilitate”</description>
     </item>
     <item>
       <title>Va (mai tot) urma</title>
-      <link>//192.168.100.77:1313/flux/2024-10-12-va-mai-tot-urma/</link>
+      <link>http://localhost:1313/flux/2024-10-12-va-mai-tot-urma/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-10-12-va-mai-tot-urma/</guid>
+      <guid>http://localhost:1313/flux/2024-10-12-va-mai-tot-urma/</guid>
       <description>Imaginați-vă scena! Nu e cea mai exactă ilustrare a discuției care urmează dar nu e tocmai lipsită de sens. Sînteți într-un restaurant. Deodată, cineva năvălește și dă o palmă cuiva, aflat la masa vecină. Cum se poate așa ceva? Agresorul trebuie prins și pedepsit! E clar, nu? Să lărgim cadrul și contextul. Cine a lovit pe cine și de ce?&#xA;Israelul a atacat forța de pace ONU! Un public internațional enorm a absorbit această știre și, odată cu ea, temeiul unei indignări fără rezerve.</description>
     </item>
     <item>
       <title>Înțelepciunea lui Iliescu</title>
-      <link>//192.168.100.77:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</link>
+      <link>http://localhost:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</guid>
+      <guid>http://localhost:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</guid>
       <description>Nu credeam să ajung s-o spun dar acest interviu cu Iliescu e formidabil. Omul nu numai că nu e senil, dar are o acuitate intelectuală greu de găsit azi în peisajul public. Te-ai aștepta să existe măcar un comentator politic în România capabil să identifice rațiunile fundamentale ale colapsului nostru politic. Nu există. E nevoie de Ion Iliescu să vină și să spună ceva de felul ăsta (îngroșările mele):&#xA;Cine vrea oameni inteligenți, deopotrivă emoțional și cognitiv, la butoanele democrațiilor?</description>
     </item>
     <item>
       <title>Stairway to Hell</title>
-      <link>//192.168.100.77:1313/flux/2024-09-18-stairway-to-hell/</link>
+      <link>http://localhost:1313/flux/2024-09-18-stairway-to-hell/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-09-18-stairway-to-hell/</guid>
+      <guid>http://localhost:1313/flux/2024-09-18-stairway-to-hell/</guid>
       <description>&lt;p&gt;Războaiele, pe măsură ce durează mai mult, alterează pe nesimțite ceea ce în vremuri normale par a fi &amp;ldquo;standarde morale&amp;rdquo; inviolabile, înscrise în piatră. În războiul din Ucraina s-a trecut cam repede de la empatia și solidaritatea cu refugiații ucrainieni la discursul despre orcile rusești  (adică ființe complet inumane), clipuri cu ucideri ale soldaților ruși ilustrate cu piese furioase de rock-metal sau trash și ideea că nici o escaladare nu e prea periculoasă. Oameni serioși și cumsecade în viața de zi cu zi au devenit susținători entuziaști ai exterminării inamicului prin dezmembrare și pulverizare și sunt gata să te extermine și pe tine dacă arăți vreo îndoială că acesta ar putea fi un scop nobil care servește civilizației europene.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fahrenheit 451, versiunea ucrainiană</title>
-      <link>//192.168.100.77:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</link>
+      <link>http://localhost:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</guid>
+      <guid>http://localhost:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</guid>
       <description>&lt;p&gt;Așadar Festivalul de Film din Toronto (TIFF) a oprit proiecția lui &amp;ldquo;Russians at War&amp;rdquo; din motive de siguranță, după ce au primit &amp;ldquo;&lt;em&gt;amenințări semnificative la adresa operațiunilor festivalului și la adresa publicului&lt;/em&gt;&amp;rdquo;  Cine altcineva decât ucrainienii ar avea determinarea să facă așa ceva? Auzim neîncetat că filmul e un film de propagandă și de aia nu trebuie să-l vedem. Om fi oare chiar atât de proști să nu putem judeca asta cu mintea noastră &lt;em&gt;după&lt;/em&gt; ce vedem filmul și avem nevoie de ucrainieni să îl oprească de la difuzare cu orice chip peste tot în lume?&lt;/p&gt;&#xA;&lt;p&gt;Începi să te întrebi ce e în filmul ăla să merite atâta ură și efort dus până la activități criminale, că amenințările alea nu sunt doar retorică.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O analiză bună cu un titlu prost.</title>
-      <link>//192.168.100.77:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</link>
+      <link>http://localhost:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</guid>
+      <guid>http://localhost:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</guid>
       <description>Azi a fost publicată pe hotnews o analiză a lui Silviu Cernea, profesor emerit de economie monetară, sub titlul: &amp;ldquo;Lupta pentru putere favorizează o politică economică populistă, care dezechilibrează economia, provoacă inflație și împiedică scăderea ratelor dobânzilor&amp;rdquo;.&#xA;Articolul e despre cum Botoș, ministrul așa zis liberal al așa zisei coaliții condusă de Ciolacu, a apelat masiv la împrumuturi publice, ceea ce anulează eforturile BNR de a ține inflația sub control. E util pentru că are cifre clare și semnalează o problemă gravă.</description>
     </item>
     <item>
       <title>Călăul despre funia reglementărilor</title>
-      <link>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</link>
+      <link>http://localhost:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</guid>
+      <guid>http://localhost:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</guid>
       <description>Raportul Draghi care deplânge scăderea competitivității europene e suspect prin însuși autorul lui. Ca guvernator al Băncii Central Europene între 2011 și 2019 s-a remarcat prin politici dure de susținere a euro și de reducere a suveranității statelor membre; cu alte cuvinte el e un centralist care dorește mai multă putere la Bruxelles și mai puțină în capitalele europene, fiind prin asta unul din artizanii sărăcirii economiilor din sudul Europei. Situația competitivității scăzute de acum e în mare parte produsul politicilor centraliste ale UE din perioada în care el era Guvernator și avea un cuvânt foarte greu de spus.</description>
     </item>
     <item>
       <title>Despre stilul textelor pe care le scriem</title>
-      <link>//192.168.100.77:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</link>
+      <link>http://localhost:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</guid>
+      <guid>http://localhost:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</guid>
       <description>Schemele noastre de limbaj (pe care le folosim inconștient) sunt dobândite prin expunerea repetată la schemele altora. În felul ăsta, pe parcursul anilor, stilurile încep să semene; nu e în sine un lucru rău, vocabularul se lărgește, paleta de scheme aplicate se îmbunătățește. ChatGPT poate face asta în câteva microsecunde, plecând de la o definiție a unui model de stil, dar folosește același principiu, caută scheme de limbaj pe care să le replice.</description>
     </item>
     <item>
       <title>RSS - Despre stilul textelor pe care le scriem</title>
-      <link>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</link>
+      <link>http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</guid>
+      <guid>http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</guid>
       <description>Schemele noastre de limbaj (pe care le folosim inconștient) sunt dobândite prin expunerea repetată la schemele altora. În felul ăsta, pe parcursul anilor, stilurile încep să semene; nu e în sine un lucru rău, vocabularul se lărgește, paleta de scheme aplicate se îmbunătățește. ChatGPT poate face asta în câteva microsecunde, plecând de la o definiție a unui model de stil, dar folosește același principiu, caută scheme de limbaj pe care să le replice.</description>
     </item>
     <item>
       <title>Sfântul Augustin și politica externă americană.</title>
-      <link>//192.168.100.77:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</link>
+      <link>http://localhost:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</guid>
+      <guid>http://localhost:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</guid>
       <description>Ei n-au înțeles că principiul &amp;lsquo;Nu-i face altuia ce nu vrei să ți se facă ție&amp;rsquo; nu poate fi în nici un caz modificat în funcție de diversitatea de obiceiuri naționale. Când această regulă se aplică iubirii de Dumnezeu, pier toate viciile; când se aplică iubirii de aproapele, dispar toate fărădelegile&amp;quot; 1&#xA;E reproșul fundamental ce poate fi adus azi politicii externe americane. Pre puțin din ce fac astăzi Statele Unite altora ar fi tolerabil pentru ei înșiși.</description>
     </item>
     <item>
       <title>Abonare</title>
-      <link>//192.168.100.77:1313/abonare/</link>
+      <link>http://localhost:1313/abonare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/abonare/</guid>
+      <guid>http://localhost:1313/abonare/</guid>
       <description> Primește ultimele postări direct pe email Abonează-te </description>
     </item>
     <item>
       <title>About</title>
-      <link>//192.168.100.77:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>Bogdan Iacob</title>
-      <link>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</link>
+      <link>http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</guid>
+      <guid>http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</guid>
       <description>Bogdan Iacob</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>//192.168.100.77:1313/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>You must have Javascript enabled to use this function.&#xA;Your message was sent.&#xA;There was an error sending the message.&#xA;Name E-mail address Subject Message Send message </description>
     </item>
     <item>
       <title>Florin Cojocariu</title>
-      <link>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</link>
+      <link>http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</guid>
+      <guid>http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/</guid>
       <description>Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.</description>
     </item>
     <item>
       <title>Florin Cojocariu</title>
-      <link>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</link>
+      <link>http://localhost:1313/test/map-name-florin-cojocariu-description-bio-florin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</guid>
+      <guid>http://localhost:1313/test/map-name-florin-cojocariu-description-bio-florin/</guid>
       <description>Florin e fizician prin educație, fost antreprenor și bucătar, actual masterand în filosofie.</description>
     </item>
     <item>
       <title>Maica M.</title>
-      <link>//192.168.100.77:1313/authors/maica-m/</link>
+      <link>http://localhost:1313/authors/maica-m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/maica-m/</guid>
-      <description>Maica M. e mai timidă. La drept vorbind n-avem nici o idee când s-ar hotărî să scrie.</description>
+      <guid>http://localhost:1313/authors/maica-m/</guid>
+      <description>Maica M e exact asta, chiar dacă nu într-o mănăstire propriu-zisă.Inadaptabilă, a decis că tradiția celor numiți &amp;ldquo;κοσμοκάλογεροι&amp;rdquo;, călugări în lume, nu e caducă. Pe &amp;ldquo;Antimaterie&amp;rdquo; va publica &amp;ldquo;Ziua ce vine&amp;rdquo;, adică pagini de jurnal.</description>
     </item>
     <item>
       <title>Search</title>
-      <link>//192.168.100.77:1313/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description>You must have Javascript enabled to use this function.&#xA;Loading search index…&#xA;Search Title here Date here Summary here</description>
     </item>
     <item>
       <title>TRU</title>
-      <link>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</link>
+      <link>http://localhost:1313/authors/map-name-tru-description-bio-tru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</guid>
+      <guid>http://localhost:1313/authors/map-name-tru-description-bio-tru/</guid>
       <description>Pentru cine-l știe, nu-i nevoie de biografie. Nici pentru cine nu-l știe.</description>
     </item>
   </channel>

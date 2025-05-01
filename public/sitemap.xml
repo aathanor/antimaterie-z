@@ -2,105 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.100.77:1313/flux/</loc>
+    <loc>http://localhost:1313/distilat/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/distilat/2025-01-05-e-mai-t%C3%A2rziu-dec%C3%AEt-credem/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2025-01-05-nu-v%C4%83-fie-fric%C4%83-democra%C8%9Bia-pic%C4%83/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2025-01-03-ziua-ce-vine/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-29-anul-nou-care-n-a-fost-o-cronic%C4%83-pozitiv%C4%83/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-28-ziua-ce-vine/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-21-jurnal/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-20-georgia-georgescu--miss-univers-democratic/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-14-nu-ave%C8%9Bi-de-ales/</loc>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-13-jurnal-8-11-decembrie/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-11-jurnal-28-noiembrie-6-decembrie/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flux/2024-12-07-mereu-la-putere/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-12-07-mereu-la-putere/</loc>
-    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</loc>
+    <loc>http://localhost:1313/flux/2024-12-06-motivele-profunde-ale-nebuniei/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</loc>
+    <loc>http://localhost:1313/flux/2024-12-05-noi-s%C3%AEntem-poporul--voi-s%C3%AEnte%C8%9Bi-decorul/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</loc>
+    <loc>http://localhost:1313/flux/2024-11-29-democra%C8%9Bia-comedia-rom%C3%A2nia/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</loc>
+    <loc>http://localhost:1313/flux/2024-11-26-vivat-democra%C8%9Bia/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</loc>
+    <loc>http://localhost:1313/flux/2024-11-25-the-good-the-bad-and-the-ugly/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</loc>
+    <loc>http://localhost:1313/flux/2024-11-07-cum-arat%C4%83-alegerile-americane-defectul-mortal-al-construc%C8%9Biei-europene/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</loc>
+    <loc>http://localhost:1313/flux/2024-11-07-democra%C8%9Bia-trebuie-concediat%C4%83/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-05-anti-neant/</loc>
+    <loc>http://localhost:1313/flux/2024-11-05-anti-neant/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</loc>
+    <loc>http://localhost:1313/flux/2024-11-05-%C3%AEn-ap%C4%83rarea-lui-dan-alexe/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</loc>
+    <loc>http://localhost:1313/flux/2024-11-01-la-vot-din-datorie-%C8%99i-bun-sim%C8%9B/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</loc>
+    <loc>http://localhost:1313/flux/2024-10-21-un-e%C8%99ec-previzibil-%C8%99i-o-oportunitate-ascuns%C4%83/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-10-12-va-mai-tot-urma/</loc>
+    <loc>http://localhost:1313/flux/2024-10-12-va-mai-tot-urma/</loc>
     <lastmod>2024-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</loc>
+    <loc>http://localhost:1313/flux/2024-09-30-%C3%AEn%C8%9Belepciunea-lui-iliescu/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-18-stairway-to-hell/</loc>
+    <loc>http://localhost:1313/flux/2024-09-18-stairway-to-hell/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</loc>
+    <loc>http://localhost:1313/flux/2024-09-14-fahrenheit-451-versiunea-ucrainian%C4%83/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</loc>
+    <loc>http://localhost:1313/flux/2024-09-14-o-analiz%C4%83-bun%C4%83-cu-un-titlu-prost/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</loc>
+    <loc>http://localhost:1313/distilat/2024-09-13-c%C4%83l%C4%83ul-despre-funia-reglement%C4%83rilor/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/distilat/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
+    <loc>http://localhost:1313/flux/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
+    <loc>http://localhost:1313/test_rss/2024-09-12-despre-stilul-textelor-pe-care-le-scriem/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/test_rss/</loc>
+    <loc>http://localhost:1313/test_rss/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</loc>
+    <loc>http://localhost:1313/flux/2024-09-08-dumnezeu-a-murit-urm%C4%83m-noi/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-03T20:48:20+02:00</lastmod>
   </url><url>
-    <loc>//192.168.100.77:1313/abonare/</loc>
+    <loc>http://localhost:1313/abonare/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</loc>
+    <loc>http://localhost:1313/authors/map-name-bogdan-iacob-description-bio-bogdan/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
+    <loc>http://localhost:1313/authors/map-name-florin-cojocariu-description-bio-florin/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/test/map-name-florin-cojocariu-description-bio-florin/</loc>
+    <loc>http://localhost:1313/test/map-name-florin-cojocariu-description-bio-florin/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/authors/maica-m/</loc>
+    <loc>http://localhost:1313/authors/maica-m/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/test/</loc>
+    <loc>http://localhost:1313/test/</loc>
   </url><url>
-    <loc>//192.168.100.77:1313/authors/map-name-tru-description-bio-tru/</loc>
+    <loc>http://localhost:1313/authors/map-name-tru-description-bio-tru/</loc>
   </url>
 </urlset>
