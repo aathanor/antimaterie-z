@@ -4,7 +4,7 @@ date: 2025-05-06
 author: Florin Cojocariu
 ---
 
-![Magik Politik](static/images/uploads/magik_politik.png)
+![Magik Politik](/images/uploads/magik_politik.png)
 
 În pofida aparențelor, dezintegrarea politică a partidelor clasice nu e în mod particular un simptom românesc ci unul al vremurilor. Cauza profundă e asta: dintr-o combinație de motive politicienii de pretutindeni au ajuns azi să creadă că singurul lucru care contează pentru a rămâne la putere e comunicarea publică. Nu contează ce faci, contează ce spui. Ei sunt convinși că indiferent de acțiunile lor, de rezultatul deciziilor lor, realitatea poate fi ascunsă de vorbe. La o privire mai atentă, e o formă bizară de gândire magică.
 
