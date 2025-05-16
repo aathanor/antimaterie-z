@@ -3,7 +3,7 @@ title: "Cultură contra domnie "
 date: 2025-05-16
 author: TRU
 ---
-![CulturaContraDomnie](static/images/uploads/mosierii.png)
+![CulturaContraDomnie](/images/uploads/mosierii.png)
 Cei ce anunță că, dacă Nicușor Dan pierde alegerile, urmează șomajul, se introduc vizele și se întoarce foametea știu că mint. E imposibil ca un cetățean român cu drept de vot și cu un dram de minte să creadă așa ceva.
  
 Liderii de opinie și somitățile intelectuale care repetă necontenit aceste prostii panoramice își distrug reputația și, mai grav, vînd pe nimic respectul cuvenit culturii într-o societate normală. Prostia care stăpînește aceste minți e neîngrădită și își face de cap, mînjindu-și, în primul rînd, purtătorii. Pozița în care se plasează mincinoșii veseli ai anului 2025 e stupidă dar asta nu înseamnă că e inexplicabilă: la vremuri strîmbe, minți curbe.
