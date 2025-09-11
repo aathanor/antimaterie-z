@@ -19,11 +19,6 @@ term = ['html']
   [services.googleAnalytics]
     ID = "G-YCEPNKDC74"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params]
 alpine = false
 blogSections = [ "distilat", "flux" ]
@@ -111,3 +106,5 @@ title = 'My New Hugo Site'
       [markup.goldmark.parser.attribute]
         block = true
         title=true
+    [markup.goldmark.renderer]
+      unsafe = true
