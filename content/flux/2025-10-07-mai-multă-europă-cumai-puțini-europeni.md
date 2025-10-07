@@ -1,5 +1,5 @@
 ---
-title: Mai multă Europă cumai puțini europeni!
+title: Mai multă Europă cu mai puțini europeni!
 date: 2025-10-07
 author: TRU
 ---
