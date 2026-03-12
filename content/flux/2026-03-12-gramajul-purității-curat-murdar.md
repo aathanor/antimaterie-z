@@ -5,7 +5,7 @@ author: TRU
 ---
 E coadă la dreptul internațional. Multă lume a descoperit că americanii și evreii au atacat ilegal Iranul. Discuția are loc în termeni de politețe și bună purtare: Iranul putea fi atacat dar numai cu înștiințare prealabilă, scrisă și legalizată. Altfel, praful se alege de dreptul internațional!
 
-Mulți din oamenii binecrescuți care apără dreptul internațional și puritatea războaielor legale nu au habar pe ce lume trăiesc. E trist pentru că, măcar în parte, apărătorii români ai principiilor sînt oameni deștepți, gazetari buni și observatori informați.De data asta, însă, exact cei ce ar trebui să clarifice lucrurile legitimează o aiureală internațională și o potlogărie liberală. Efectul e necivilizat: elita mică încolonează turma mare. Toate astea, deși avertismentul exista.
+Mulți din oamenii binecrescuți care apără dreptul internațional și puritatea războaielor legale nu au habar pe ce lume trăiesc. E trist pentru că, măcar în parte, apărătorii români ai principiilor sînt oameni deștepți, gazetari buni și observatori informați. De data asta, însă, exact cei ce ar trebui să clarifice lucrurile legitimează o aiureală internațională și o potlogărie liberală. Efectul e necivilizat: elita mică încolonează turma mare. Toate astea, deși avertismentul exista.
 
 Iată-l, într-un acces de pocăință, rostit pe 20 ianuarie 2026, la Davos, de unul din papii globalismului liberal, Primul Ministru canadian Mark Carney:
 
