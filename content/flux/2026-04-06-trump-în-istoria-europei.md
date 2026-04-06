@@ -26,11 +26,11 @@ care și-a acordat-o pentru a-și etala marea specialitate:
 mizeriile de reptilă minoră. Nu putem opri războiul dar
 putem fi meschini, punînd piedici și pozînd în eroi ai
 rezistenței anti-Trump.
+
 Italia, Spania, Franța, Germania își închid spațiul aerian
 pentru avioanele militare americane și refuză accesul
 americanilor la bazele NATO de pe teritoriul lor. Vorbim de
 aceleași baze NATO care apără Europa de aproape 80 de ani.
-
 Și de amnezia scabroasă a ”statelor cheie” care uită că își
 datorează existența deciziei americane de a rămîne în Europa
 după 1945. Altfel, ”statele cheie” ar fi devenit ”state
@@ -56,13 +56,13 @@ judecată. În spatele lui stau infirmități psihice și
 politice nerostite. Toate se hrănesc din lașitate,
 slăbiciune și perfidie. Și toate cer deformarea grotescă a
 judecății elementare.
+
 Cum arată realitatea scoasă la vedere de războiul pe care
 Europa îl repudiază, socotindu-l o fabricație americano-
 israeliană?
 Am aflat, de pildă, că Iranul a pregătit un aparat militar
 extraordinar pentru a-și păstra comorile nucleare. Am mai
 aflat că Iranul poate lovi ținte europene (și a oferit un
-
 aperitiv în materie trimițînd rachete spre insula Diego
 Garcia, la aproape 4000 km distanță) E de la sine înțeles
 că, în viziunea ”statelor cheie”, apărarea Europei de un
@@ -87,13 +87,13 @@ cauționat nuclear. Ce spune toată această acumulare de
 putere? La ce bun a construit Iranul acest monstru?
 Nu contați pe un răspuns onest din partea ”statelor cheie”
 europene.
+
 Europa nu are cum să reacționeze în fața realității tocmai
 pentru că îi e, deja, supusă. Capturată intern de masa
 islamică din centrele urbane, dezarmată cu mîna guvernelor
 care și-au falimentat armatele și adusă cu aceeași mînă la
 dependență energetică totală, Europa nu are ce și cum să
 răspundă. Tot ce poate articula Europa e un lanț băltos de
-
 sofisme, o perdea enormă de propagandă anti-Trump și încă o
 tură de summit-uri care simulează voința.
 Cînd spune ”nu e războiul nostru”, Europa rostește, de fapt,
@@ -118,13 +118,13 @@ gloria lui Trump. Asta e interpretarea tabloidă istoriei. În
 joc, e ceva întins peste generațiile ce vin: viitorul sau
 lipsa de viitor a civilizației europene. Asta pare să fi
 intuit Donald Trump.
+
 Ce face Trump e de neînțeles, pentru o privire rezemată în
 clipa de față. E de ajuns să acceptăm mecanica după care
 civilizațiile interacționează dintotdeauna și urma lui Trump
 în istorie devine descifrabilă.
 Trump încearcă să desfacă lumea occidentală din strînsoarea
 acumulărilor ostile de putere (ajunse la incandescență în
-
 Iran), să neutralizeze avanposturile strategice (Venezuela
 și Cuba) prin care avansează influența puterilor adverse, să
 creeze o relație de coexistență cu Rusia, să tempereze
