@@ -37,13 +37,13 @@ după 1945. Altfel, ”statele cheie” ar fi devenit ”state
 seceră și ciocan”, bucurîndu-se de soarta ”primitivilor” din
 Est. E adevărat, ”statele cheie” sînt în posesia unei arme
 temută de la Teheran la Beijing: summit-urile încheiate cu
-declarații fioroase de vitejie și atuonomie pe hîrtie.
+declarații fioroase de vitejie și autonomie pe hîrtie.
 Deasemenea, nu e de neglijat că, de pildă, Spania contează
 pe 150 de generali, la 4000 de soldați combatanți.
 Tot Europa ”statelor cheie” declară demn: nu am fost
 consultați înainte de atacul asupra Iranului! Ideea e că
-Europa pretinde ca amercanii șă le îngăduie un
-exchibiționism avansat. Adică șansa de a spune nu, mai
+Europa pretinde ca americanii șă le îngăduie un
+exhibiționism avansat. Adică șansa de a spune nu, mai
 devreme.
 Pseudo-raționamentul care stă la baza acestei pseudo-
 strategii practicată de pseudo-lideri pseudo-europeni e
@@ -72,7 +72,7 @@ dotat militar de americani.
 Asta are Iranul în ”parcare”. Ce e în strategia de stat e și
 mai sinistru: atacuri împotriva statelor vecine, incendierea
 generală a zonei, blocarea Strîmtorii Hormuz și gîtuirea
-livrărilor de petrol căte Occident (odată cu legea
+livrărilor de petrol către Occident (odată cu legea
 internațională care a dispărut de pe radarul celor ce nu mai
 puteau de grija ei)
 Însumînd, avem în fața ochilor (dacă ei vor să vadă) un stat
@@ -80,7 +80,7 @@ pregătit să atace în jur și la mare depărtare și să distrugă
 economiile și finanțele Occidentului. Implantul de populație
 islamică complet străină de democrație în statele
 democratice ale Europei de Vest e o pîrghie în plus.
-Războiul a scos la vedere ceva tănuit și construit în ani
+Războiul a scos la vedere ceva tăinuit și construit în ani
 lungi de îndoctrinare ideologică și planificare industrială:
 un mamut militar, motivat de un impuls religios furibund și
 cauționat nuclear. Ce spune toată această acumulare de
@@ -90,7 +90,7 @@ europene.
 Europa nu are cum să reacționeze în fața realității tocmai
 pentru că îi e, deja, supusă. Capturată intern de masa
 islamică din centrele urbane, dezarmată cu mîna guvernelor
-care și-au falimentat armatele și adusă cu aceași mînă la
+care și-au falimentat armatele și adusă cu aceeași mînă la
 dependență energetică totală, Europa nu are ce și cum să
 răspundă. Tot ce poate articula Europa e un lanț băltos de
 
@@ -111,7 +111,7 @@ mult înainte de declanșarea războiului.
 anemie și servitute? Donald Trump, nu?
 Singura salvare posibilă stă în Trump și în continuarea
 războiului pe care europenii îl declară străin lor. Războiul
-din Iran e, într-adeăr, al tuturor, inclusiv al celor care
+din Iran e, într-adevăr, al tuturor, inclusiv al celor care
 au capitulat demult.
 În joc nu sînt numai puterea clasei conducătoare europene și
 gloria lui Trump. Asta e interpretarea tabloidă istoriei. În
@@ -137,7 +137,7 @@ pentru reechilbrarea forțelor ce duc, de prea mult timp, la
 o criză fără întoarcere. Nu pentru că Trump e un intelectual
 sau un savant ci pentru că are instinctul primar al celui ce
 înțelege încotro ne scurgem.
-Occidentul e gata să își lase civilizația răsturantă de
+Occidentul e gata să își lase civilizația răsturnată de
 presiunile din afară și de slăbiciunea dinăuntru (adevărata
 corupție, pe care copoii specializați nu au de gînd să o
 noteze).
