@@ -3,14 +3,6 @@ title: "Habemus papam! La ce bun?  "
 date: 2026-04-13
 author: TRU
 ---
-
-
-\    Habemus papam! La ce bun?       
-
-
-
-
-
 Papa Leon al XIV-lea, Vicar al lui Cristos pe pămînt, a luat poziție împotriva lui Donald Trump, Președinte al Statelor Unite (în relații deloc ostile cu limbarița) ales de pămînteni americani (deloc liberali) și angajat în război cu Iranul (nu tocmai creștin, ba chiar ultra-islamic)
 
 Papa e împotriva războiului. Nici o surpriză. Dar cuvintele Papei au fost încărcate cu ceva mai mult decît principii creștine. A existat în ele o adresă, subtilă dar notabilă. Din primul moment, expertologii care ne ajută să înțelegem orice cum trebuie s-au grăbit să ne asigure că remarcile Papei îl vizau pe Donald Trump.
