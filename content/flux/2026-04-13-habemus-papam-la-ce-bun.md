@@ -1,5 +1,5 @@
 ---
-title: "Habemus papam! La ce bun?  "
+title: "Habemus Papam! La ce bun?  "
 date: 2026-04-13
 author: TRU
 ---
