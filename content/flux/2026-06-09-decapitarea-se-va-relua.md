@@ -29,9 +29,9 @@ A trecut doar o săptămînă de cînd cazul Henry Nowak a devenit public, în t
 
 Dar Nowak nu putea fi de ajuns. Urgia va continua, întreținută de torente de migranți și de religia fixă a Sectei. Vor veni alte și alte scene bestiale, urmate de aceleași cuvinte putrede și de același discursuri scelerate ale Sectei.
 
-Protocolul de execuție e peste tot același: se adoptă religia morală liberală, s declară fascist orice protest și se constituie o masă de sprijin reeducată prin propagandă, adică supusă efectului media și universitar. Irlanda de Nord e departe dar întunericul circulă mai rapid decît lumina.  
+Protocolul de execuție e peste tot același: se adoptă religia morală liberală, se declară fascist orice protest și se constituie o masă de sprijin reeducată prin propagandă, adică supusă efectului media și universitar. Irlanda de Nord e departe dar întunericul circulă mai rapid decît lumina.  
 
-Veți regăsi purtătorii acestor practici și idei în România. Deocamdată, în lipsa migrației, trupa se ocupă cu meschinării demult fumate în Occident: anularea votului popular sau procedeul ”cordonului sanitar”. Dar speranța nu maore. Vor veni acele pretexte de înaltă moralitate care vor pune trupa, cu tot cu lanterne, ”rezistențe” și app-uri, în dispoziție ”Tzepeche Mode”.    
+Veți regăsi purtătorii acestor practici și idei în România. Deocamdată, în lipsa migrației, trupa se ocupă cu meschinării demult fumate în Occident: anularea votului popular sau procedeul ”cordonului sanitar”. Dar speranța nu moare. Vor veni acele pretexte de înaltă moralitate care vor pune trupa, cu tot cu lanterne, ”rezistențe” și app-uri, în dispoziție ”Tzepeche Mode”.    
 
 Ce au acești oameni cu noi? Nimic. Problema lor nu sîntem noi ci ei înșiși. Mai precis, frustrările și narcisismul. Noi, ceilalți, sîntem doar materialul didactic. Avem în față și deasupra o trupă în derută interioară și, deci, mare consumatoare de exhibiționism.  E vorba, pur și simplu, de posedați. Toți cred într-o idee unică, mistică și sfîntă care dă cu realitatea de pămînt și se întoarce în ei încărcată de leacuri. Căci fanatismul e stropit din belșug de conștiința acută a dreptății, de dovada propriei importanțe pe lume și de o senzație inegalabilă de euforie.
 
