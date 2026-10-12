@@ -46,7 +46,7 @@ Cine dă acestor fanatici cu funcții dreptul de a disprețui și batjocori prin
  
 Rușinea și demisia sînt insuficiente. Acești tartori spilcuiți ar trebui aduși în fața justiției pentru insultă în masă. Zeci de milioane de oameni s-au trezit sac de box și loc de scuipat pentru lumea subțire a profesorilor de democrație. Sau asta nu e infracțiune?
  
-Impostura e uriașă. În locul ”valorilor europene”, huliganism și escrocherie politică. În locul de datorie și răspundere, cea mai înaltă corupție morală și materială.
+Impostura e uriașă. În locul ”valorilor europene”, huliganism și escrocherie politică. În loc de datorie și răspundere, cea mai înaltă corupție morală și materială.
 
 Apropos, Primul Ministru Burhnham e pe urma manevrelor rusești care au capturat alegători britanici dar nu a explicat încă nimic despre banii arăbești care au intrat în Manchester pe vremea cînd el era Primar. Arabii au cumpărat Manchester City în 2008 și au făcut afaceri de miliarde în și în jurul clubului. Acum, au fost găsiți vinovați de corupție, sub 115 capete de acuzare. Cu 10 zile înainte de verdict, președintele clubului Manchester City a fost primit în Downing Street și a avut convorbiri cu Ministrul Afacerilor în Guvernul Britanic. Desigur, despre vreme și, în genere, despre orice altceva decît verdictul în marele caz de corupție.
  
