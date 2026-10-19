@@ -3,7 +3,7 @@ title: Putrefacție matură
 date: 2026-10-19
 author: TRU
 ---
-Nu va luați după fotografii! Franța nu arde. Franța se scufundă. Nu numai Franța: toate statele occidentale se duc la fund, apăsate de greutatea propriilor decizii. Istoria Europei ia sfîrșit. De acum înainte, ne paște o agonie înfășurată în deliruri noi și întețită de otrăvuri suplimentare.
+Nu vă luați după fotografii! Franța nu arde. Franța se scufundă. Nu numai Franța: toate statele occidentale se duc la fund, apăsate de greutatea propriilor decizii. Istoria Europei ia sfîrșit. De acum înainte, ne paște o agonie înfășurată în deliruri noi și întețită de otrăvuri suplimentare.
 
 După aproape 40 de ani de la triumful anunțat în 1989, Europa liberală, furnizoare de lecții și modele, logodită cu progresul și sortită succesului, se stinge doborîtă de o epidemie de nebunie. De un lanț de fixații și aberații istorice, economice, politice, spirituale și sociale. Totul e greșit, contra-naturii și irespirabil, în acest evantai care asfixiază.
 
